@@ -2,9 +2,7 @@
 title: "Chimera's Wish List"
 ---
 
-> Chimera is in need of the following items to outfit our space.
-
-If you have some of the following items, **please post on our** [**Google Group**](https://groups.google.com/forum/#!forum/chimera-art-space) **describing what you have** (and ideally a photo or two).
+Chimera is in need of the following items to outfit our space. If you have some of the following items, **please post on our** [**Google Group**][google-group] **describing what you have** (and ideally a photo or two).
 
 ## Cool Toys
 
@@ -60,3 +58,7 @@ If you have some of the following items, **please post on our** [**Google Group*
 ## Not in the list?
 
 For items not in the list above, **we require a member to take responsibility for the item**. The reason we do this is so that we don't end up with a lot of things that aren't used and just take up space and collect dust.
+
+Post your item in our [**Google Group**][google-group] or reach out to a member who might be interested in taking responsibility for your item.
+
+[google-group]: https://groups.google.com/forum/#!forum/chimera-art-space
