@@ -12,7 +12,7 @@ title: "Donate"
 
 **Money burning a hole through your pocket?** Chimera is always happy to receive cash donations!
 
-[Please go here to donate to Chimera!](https://chimera.nationbuilder.com/donate)
+**[Please go here to donate to Chimera!](https://chimera.nationbuilder.com/donate)**
 
 Your cash donation will go to helping us pay for rent and utilities, purchase equipment and supplies and put on events, meetups and classes!
 
