@@ -21,6 +21,7 @@ This project contains a git subtree at `public`, so in order to update the compi
 ```bash
 git add .
 git commit -m 'something...'
+git push origin master
 git subtree push --prefix=public public master
 ```
 
