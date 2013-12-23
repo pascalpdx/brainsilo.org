@@ -24,6 +24,11 @@ Your cash donation will go to helping us pay for rent and utilities, purchase eq
 **Have a particular skill?** Then you might want to consider [teaching at Chimera](/about/teaching/).
 
 
+## Reimbursements
+
+Chimera does not offer any reimbursements for donations. If you'd like to donate something to Chimera and want something in return, the only thing we can offer is a tax receipt.
+
+
 ## Tax Receipt
 
 Since we're a 501\(c\)3 organization, we can offer tax receipts for donations we accept and that are valued. 
