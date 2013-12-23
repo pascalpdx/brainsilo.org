@@ -9,12 +9,12 @@ title: "Get in Touch with Chimera"
 
 If you want to get in touch with [Chimera administrators](/about/leadership/), please email us at: [info@chimeraarts.org](mailto:info@chimeraarts.org). 
 
-*Please be patient if we don't respond right away, we get lots of email and we are all volunteers!*
+***Note:** Please be patient if we don't respond right away, we get lots of email and we are all volunteers!*
 
 
 ## Have Donations?
 
-If you'd like to donate equipment, time or money, please head on over to our [Donate](/donate/) page.
+If you'd like to donate equipment, time or money, please head on over to our [Donate page](/donate/).
 
 
 ## Want to Teach?
