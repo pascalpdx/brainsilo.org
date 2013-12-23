@@ -21,7 +21,7 @@ Your cash donation will go to helping us pay for rent and utilities, purchase eq
 
 **Don't have things or money to donate but want to help?** We're always looking for people to help us clean and move things, produce events and 
 
-Have a particular skill? Then you might want to consider [teaching at Chimera]()
+**Have a particular skill?** Then you might want to consider [teaching at Chimera](/about/teaching/).
 
 
 ## Tax Receipt
