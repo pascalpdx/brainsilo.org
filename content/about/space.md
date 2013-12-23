@@ -9,8 +9,10 @@ Chimera is renting a 5,000 sq.ft. space at the old Ford Garage building in downt
 
 *The main space is undergoing renovations and is slated to be ready in the beginning of 2014*. When the main space construction is complete, Chimera will open up it's membership offerings including our metal shop and studio rentals.
 
-Our office space in the back lot is our space for regular meetups, classes and events. We're also in the process of preparing it for regular use by members.
+Our office space in the back lot is our space for regular meetups, classes, events, and as of December 2013, membership!
 
-The current mini-makerspace is an office building that is about 700 sq.ft. This space is great for anyone doing small arts and crafts, jewelry, software or hardware design or anyone working on a computer or who doesn't require a lot of space to work. 
+The **current mini-makerspace is an office building that is about 700 sq.ft**. This space is great for anyone doing small arts and crafts, jewelry, software or hardware design or anyone working on a computer or who doesn't require a lot of space to work. 
+
+*If this sounds interesting to you, learn more about [membership](/membership/).*
 
 If you're looking to work on large projects, you may want to wait to join until that space opens up.
