@@ -31,6 +31,6 @@ Chimera does not offer any reimbursements for donations. If you'd like to donate
 
 ## Tax Receipt
 
-Since we're a 501\(c\)3 organization, we can offer tax receipts for donations we accept and that are valued. 
+Since we're a 501\(c\)3 organization, we can offer tax receipts for valid donations we accept and that are valued. Tax receipts are for relatively large donations. If you donate some post-its(R), we're not going to give you a tax receipt.
 
 *If you want a tax receipt for your donation, please let us know otherwise no receipt will be issued!*
