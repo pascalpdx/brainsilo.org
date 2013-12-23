@@ -14,5 +14,5 @@ Chimera is a community arts and maker space in Sebastopol, California. We're a d
 - Learn about [Chimera's history](/about/history/).
 - See who is on our [board and leadership committees](/about/leadership/).
 - Learn about our [current space](/about/space/).
+- [Teach at Chimera](/about/teaching/).
 - Download our [logo and other assets](/about/assets/).
-- [Teach at Chimera](/about/teaching/)
