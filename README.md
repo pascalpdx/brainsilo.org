@@ -16,6 +16,14 @@ Site content is found in the `content` directory and is written in Markdown.
 
 Once you've completed your changes, commit the changes and submit a pull request.
 
+This project contains a git subtree at `public`, so in order to update the compiled content, you must do the following:
+
+```bash
+cd public/
+git add .
+git commit -m 'compiled site'
+```
+
 ## License
 
 Content released under the [Creative Commons Share-Alike 2.5 License](http://creativecommons.org/licenses/by-sa/2.5/).
