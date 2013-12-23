@@ -19,9 +19,9 @@ Once you've completed your changes, commit the changes and submit a pull request
 This project contains a git subtree at `public`, so in order to update the compiled content, you must do the following:
 
 ```bash
-cd public/
 git add .
-git commit -m 'compiled site'
+git commit -m 'something...'
+git subtree push --prefix=public public master
 ```
 
 ## License
