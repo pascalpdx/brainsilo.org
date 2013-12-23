@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "\e[0;32mDeploying updates to Github...\e[0m"
+echo -e "\033[0;32mDeploying updates to Github...\033[0m"
 git add .
 msg = 'rebuilding site ' + `date`
 git commit -m msg
