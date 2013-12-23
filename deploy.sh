@@ -2,7 +2,7 @@
 
 echo -e "\033[0;32mDeploying updates to Github...\033[0m"
 git add .
-msg = 'rebuilding site ' + `date`
-git commit -m msg
+msg="rebuilding site `date`"
+git commit -m "$msg"
 git push origin master
 git subtree push --prefix=public public master
