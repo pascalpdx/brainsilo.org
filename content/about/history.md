@@ -4,7 +4,7 @@ title: "Chimera's History"
 
 ## Founding & Early Days
 
-Chimera was founded in early 2012 by [Dana Woodman](/about/leadership/) and a small group of people who say a vision for Sonoma County and what it could become. We founded Chimera both as a space to create and a hub for the creative community in this area.
+Chimera was founded in early 2012 by [Dana Woodman](/about/leadership/) and a small group of people who had a vision for Sonoma County and what it could become. We founded Chimera both as a space to create and a hub for the creative community in this area.
 
 For the first few months of our history, we grew our community from a few friends to a group of over 800 people. We quickly realized that Sonoma County and the North Bay was craving a space like Chimera, so we set making the dream a reality.
 

@@ -1,7 +1,6 @@
-<p class="text-center">
+<figure class="text-center">
   <img src="{{ index .Params 0 }}" class="img-responsive img-thumbnail">
   {{ if index .Params 1 }}
-  <br>
-  <span class="text-muted">{{ index .Params 1 }}</span>
+    <figcaption class="text-muted">{{ index .Params 1 }}</figcaption>
   {{ end }}
-</p>
+</figure>

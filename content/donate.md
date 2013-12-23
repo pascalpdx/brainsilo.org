@@ -5,7 +5,7 @@ title: "Donate"
 
 ## Equipment
 
-**Got someone awesome you want us to have?** If you have equipment that you'd like to donate, please have a look at our [Wish List page](/wish-list/) to see what we're in need of and how equipment donations work at Chimera.
+**Got something awesome you want us to have?** If you have equipment that you'd like to donate, please have a look at our [Wish List page](/wish-list/) to see what we're in need of and how equipment donations work at Chimera.
 
 
 ## Money
@@ -26,7 +26,7 @@ Your cash donation will go to helping us pay for rent and utilities, purchase eq
 
 ## Reimbursements
 
-Chimera does not offer any reimbursements for donations. If you'd like to donate something to Chimera and want something in return, the only thing we can offer is a tax receipt.
+Chimera does not offer any reimbursements for donations. If you'd like to donate something to Chimera and want something in return, the only thing we can offer is a tax receipt (and our thanks!).
 
 
 ## Tax Receipt

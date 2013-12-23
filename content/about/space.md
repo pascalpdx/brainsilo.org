@@ -13,6 +13,8 @@ Our office space in the back lot is our space for regular meetups, classes, even
 
 The **current mini-makerspace is an office building that is about 700 sq.ft**. This space is great for anyone doing small arts and crafts, jewelry, software or hardware design or anyone working on a computer or who doesn't require a lot of space to work. 
 
+**Curious about what equipment and tools we have?** Check out our [list of equipment](/about/equipment/).
+
 *If this sounds interesting to you, learn more about [membership](/membership/).*
 
 If you're looking to work on large projects, you may want to wait to join until that space opens up.
