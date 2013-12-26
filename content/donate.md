@@ -19,18 +19,23 @@ Your cash donation will go to helping us pay for rent and utilities, purchase eq
 
 ## Volunteering
 
-**Don't have things or money to donate but want to help?** We're always looking for people to help us clean and move things, produce events and 
+**Don't have things or money to donate but want to help?** We're always looking for people to help us clean and move things, produce events and do odd jobs. If that's interesting to you, please let us know your availability on our [Google Group][google-group].
 
 **Have a particular skill?** Then you might want to consider [teaching at Chimera](/about/teaching/).
 
 
-## Reimbursements
-
-Chimera does not offer any reimbursements for donations. If you'd like to donate something to Chimera and want something in return, the only thing we can offer is a tax receipt (and our thanks!).
+## About Your Donation
 
 
-## Tax Receipt
+### Tax Receipt
 
 Since we're a 501\(c\)3 organization, we can offer tax receipts for valid donations we accept and that are valued. Tax receipts are for relatively large donations. If you donate some post-its(R), we're not going to give you a tax receipt.
 
 *If you want a tax receipt for your donation, please let us know otherwise no receipt will be issued!*
+
+
+### Reimbursements
+
+Chimera does not offer any reimbursements for donations. If you'd like to donate something to Chimera and want something in return, the only thing we can offer is a tax receipt (and our thanks!).
+
+[google-group]: https://groups.google.com/forum/#!forum/chimera-art-space
