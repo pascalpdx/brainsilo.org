@@ -53,7 +53,7 @@ h2 {
 h3 {
   color: #555;
   font-size: 18px;
-  margin: 1em 0 0.5em 0;
+  margin: 1.5em 0 0.5em 0;
 }
 
 .btn,
@@ -135,5 +135,5 @@ h3 {
   padding: 4em 0;
 }
   .page-footer h3 {
-    margin-top: 0.25em;
+    margin-top: 0em;
   }
