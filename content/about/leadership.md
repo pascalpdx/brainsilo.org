@@ -16,9 +16,9 @@ title: "Chimera's Board and Leadership"
 
 ### Oren Slozberg
 
-Oren Slozberg has been working in the field of Education and the Arts for the last 25 years. His specialty areas include youth development theory as well as the use of art to promote critical thinking, aesthetic development and cognitive growth. For the last ten years Slozberg has been at the helm of Visual Thinking Strategies (VTS), a research-based pedagogy that builds cognition, critical thinking, teamwork and language skills through engagement with visual art. Slozberg first served as director of VTS in Northern California, and then for the last seven years as the program's first National Director.
+Oren Slozberg has been working in the field of Education and the Arts for the last 25 years. His specialty areas include youth development theory as well as the use of art to promote critical thinking, aesthetic development and cognitive growth. For the last ten years Slozberg **has been at the helm of Visual Thinking Strategies (VTS), a research-based pedagogy** that builds cognition, critical thinking, teamwork and language skills through engagement with visual art. Slozberg first served as director of VTS in Northern California, and then for the last seven years as the program's first National Director.
  
-A non-profit veteran, Slozberg has raised over $10 million, managed several successful non-profit start-ups and scaled up existing programs both programmatically and fiscally.
+A **non-profit veteran, Slozberg has raised over $10 million, managed several successful non-profit start-ups and scaled up existing programs both programmatically and fiscally**.
 
 
 ### Rob Cary
