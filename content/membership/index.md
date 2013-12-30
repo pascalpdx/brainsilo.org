@@ -33,7 +33,14 @@ If this sounds like something you'd love to be a part of, please click the butto
 
 If you haven't seen our space yet but are interested in being one of our first members, [contact us](/contact/) to setup a tour.
 
+
 ## Membership FAQ
+
+
+### What Equipment Do You Have?
+
+Check out our [Equipment page](/about/equipment/) for an updated list of our equipment.
+
 
 ### What Volunteer Commitment Are You Looking For?
 
@@ -42,3 +49,26 @@ We don't have a hard requirement on volunteering. We want members to take the in
 If the trash needs to be taken out, then take it out. If a station is messy, clean it up. If you need a piece of equipment, then help us acquire it. If you want to start doing X at Chimera, then make it happen (as long as it's relatively safe and legal)!
 
 We operate on the honor code; we're not going to track your hours. 
+
+
+### What Membership Commitment Do You Require?
+
+At this time, we don't require any membership commitment though we ask you to give us a heads up if you're going to cancel.
+
+
+### What Is The Cancellation Policy?
+
+You can cancel at any time with no penalty. If you cancel within the first 5 days of a new month we will refund your money.
+
+If you'd like to cancel your membership, please [email us](mailto:info@chimeraarts.org)
+
+
+### Are There Any Setup Fees
+
+At this point, there are no setup fees to become a member. We may decide to change this in the future if we deem it necessary.
+
+
+### Are There Any Other Fees?
+
+If you loose your RFID card, it will cost you $10 to replace it.
+
