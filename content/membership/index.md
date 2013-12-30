@@ -33,3 +33,12 @@ If this sounds like something you'd love to be a part of, please click the butto
 
 If you haven't seen our space yet but are interested in being one of our first members, [contact us](/contact/) to setup a tour.
 
+## Membership FAQ
+
+### What Volunteer Commitment Are You Looking For?
+
+We don't have a hard requirement on volunteering. We want members to take the initiative to find things that need to be done at Chimera. 
+
+If the trash needs to be taken out, then take it out. If a station is messy, clean it up. If you need a piece of equipment, then help us acquire it. If you want to start doing X at Chimera, then make it happen (as long as it's relatively safe and legal)!
+
+We operate on the honor code; we're not going to track your hours. 
