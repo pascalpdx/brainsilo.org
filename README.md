@@ -4,6 +4,7 @@ The website source code for <http://www.chimeraarts.org>.
 
 If you've found a problem with the site (missing content, typos, etc...), please either fork this repository and send a pull request or [create an issue](/chimera/chimeraarts.org/issues).
 
+
 ## Development
 
 The website is built with [Hugo](http://hugo.spf13.com), a static site generator written in Golang.
@@ -16,18 +17,21 @@ Site content is found in the `content` directory and is written in Markdown.
 
 Once you've completed your changes, commit the changes and submit a pull request.
 
-This project contains a git subtree at `public`, so in order to update the compiled content, you must do the following:
+This project contains a git subtree at `public`, so in order to update the compiled content, you must push your changes to the subtree.
+
+We have a convenience utility that does this for you found in `deploy.sh` which you can use like this:
 
 ```bash
-git add .
-git commit -m 'something...'
-git push origin master
-git subtree push --prefix=public public master
+./deploy.sh 'fixing a typo'
 ```
+
+... which builds your changes, commits the code and pushes the updates to both github repos. 
+
 
 ## License
 
 Content released under the [Creative Commons Share-Alike 2.5 License](http://creativecommons.org/licenses/by-sa/2.5/).
+
 
 ## Credits
 
