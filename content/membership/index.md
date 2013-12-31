@@ -70,5 +70,5 @@ At this point, there are no setup fees to become a member. We may decide to chan
 
 ### Are There Any Other Fees?
 
-If you loose your RFID card, it will cost you $10 to replace it.
+If you lose your RFID card, it will cost you $10 to replace it.
 
