@@ -22,12 +22,13 @@ Site content is found in the `content` directory and is written in Markdown.
 
 In order to deploy to this repository, you'll need commit access. Create an [issue](https://github.com/chimera/chimeraarts.org/issues/) if you want commit access.
 
+
 ### Git Subtree
 
-This project contains a git subtree at `public`, so in order to update the compiled content, you must push your changes to the subtree. To create the subtree, run the following:
+This project contains a git subtree at `public`. In order to setup the subtree, you need to add it as a remote repository by running the following:
 
 ```bash
-git subtree add --prefix public https://github.com/chimera/chimera.github.io.git master --squash
+git remote add public https://github.com/chimera/chimera.github.io.git
 ```
 
 The subtree references the repository that contains the generated content for the site which is used by Github Pages. Pushing changes to that repo will automatically trigger a rebuild of the site.
