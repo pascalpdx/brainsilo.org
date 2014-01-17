@@ -2,9 +2,9 @@
 title: "Calendar"
 ---
 
-Check out our [Google Calendar](bit.ly/chimera-calendar) to see all our upcoming classes, meetups and events!
+Check out our [Google Calendar](http://bit.ly/chimera-calendar) to see all our upcoming classes, meetups and events!
 
-<iframe src="http://www.google.com/calendar/embed?src=chimeraarts.org_b4v4cunfv1ol6mrtm1ij64gh3g%40group.calendar.google.com&ctz=America/Los_Angeles" style="border: 0" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="http://www.google.com/calendar/embed?src=chimeraarts.org_b4v4cunfv1ol6mrtm1ij64gh3g%40group.calendar.google.com&amp;ctz=America/Los_Angeles" style="border: 0" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## Idea for an Event?
 
