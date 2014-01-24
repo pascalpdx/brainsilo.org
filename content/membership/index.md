@@ -31,7 +31,7 @@ If this sounds like something you'd love to be a part of, please click the butto
 
 <a href="http://chimera.nationbuilder.com/early_adopter_membership" class="btn btn-primary btn-lg">Become a Member</a>
 
-If you haven't seen our space yet but are interested in being one of our first members, [contact us](/contact/) to setup a tour.
+If you haven't seen our space yet but are interested in being one of our first members, [come to a meetup](/calendar/) or [contact us](/contact/) to setup a tour.
 
 
 ## Membership FAQ
@@ -60,7 +60,7 @@ At this time, we don't require any membership commitment though we ask you to gi
 
 You can cancel at any time with no penalty. If you cancel within the first 5 days of a new month we will refund your money.
 
-If you'd like to cancel your membership, please [email us](mailto:info@chimeraarts.org)
+If you'd like to cancel your membership, please [email us](mailto:info@chimeraarts.org).
 
 
 ### Are There Any Setup Fees

@@ -2,19 +2,21 @@
 title: "Chimera's Space"
 ---
 
-{{% image /static/img/photos/empty-space.jpg "Our main space when we first moved in." %}}
+{{% image /static/img/photos/portable-pano.jpg "Planning session at the mini-makerspace." %}}
 
+## Current Space
 
-Chimera is renting a 5,000 sq.ft. space at the old Ford Garage building in downtown Sebastopol in addition to an office unit in the back of the same lot.
+Chimera is currently renting a small portable office building that is our space for regular meetups, classes, events, and as of December 2013, membership!
 
-*The main space is undergoing renovations and is slated to be ready in the beginning of 2014*. When the main space construction is complete, Chimera will open up it's membership offerings including our metal shop and studio rentals.
-
-Our office space in the back lot is our space for regular meetups, classes, events, and as of December 2013, membership!
-
-The **current mini-makerspace is an office building that is about 700 sq.ft**. This space is great for anyone doing small arts and crafts, jewelry, software or hardware design or anyone working on a computer or who doesn't require a lot of space to work. 
+This space is great for anyone doing small arts and crafts, jewelry, software or hardware design or anyone working on a computer or who doesn't require a lot of space to work.
 
 **Curious about what equipment and tools we have?** Check out our [list of equipment](/about/equipment/).
 
 *If this sounds interesting to you, learn more about [membership](/membership/).*
 
-If you're looking to work on large projects, you may want to wait to join until that space opens up.
+
+## Future Space
+
+We're in the process of an effort to rent a larger fabrication facility that will serve the needs of members that want to do metalwork and other large/messy forms of art. 
+
+If you're interested in getting involved in our planning process, check out our [Google Group](https://groups.google.com/forum/#!forum/chimera-art-space) and [signup to our newsletter](http://eepurl.com/zRv7D).
