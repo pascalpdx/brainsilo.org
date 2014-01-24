@@ -6,7 +6,7 @@ title: "Chimera's Board and Leadership"
 
 - **Oren Slozberg** - President
 - **Rob Cary** - Treasurer
-- **Dana Woodman** - Founder, Executive Director
+- **[Dana Woodman](/members/dana-woodman/)** - Founder, Executive Director
 - **Terry Beyak** - Co-Founder, Secretary
 - **Spring Maxfield**
 - **Caleb Adam Haye**
@@ -48,7 +48,7 @@ Spring Maxfield is a curator, event planner and avid supporter of all things art
 Spring holds a BA in Art History and Art Practice from Sonoma State University and an MA in Museum Studies from San Francisco State University. When not busy constructing clothing, curating art shows, improving her neighborhood with public art advocacy or riding one of her homemade bicycle contraptions, Spring can be found in the garden at her mini urban homestead with her husband and daughters in Sonoma County, CA.
 
 
-### Dana Woodman
+### [Dana Woodman](/members/dana-woodman/)
 
 Dana **founded Chimera Art Space in early 2012** as a place to bring talented, creative and innovative people in the North Bay together. He has worked as a software consultant and serial entrepreneur for nearly a decade, **working with companies including Google and Comcast** and founding two companies. He studied fine art at the University of the Pacific. He loves traveling, the outdoors and kittens.
 
