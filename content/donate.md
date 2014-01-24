@@ -5,7 +5,7 @@ title: "Donate"
 
 ## Equipment
 
-**Got something awesome you want us to have?** If you have equipment that you'd like to donate, please have a look at our [Wish List page](/wish-list/) to see what we're in need of and how equipment donations work at Chimera.
+**Got something awesome you want us to have?** If you have equipment that you'd like to donate, please have a look at our [Wishlist page](/wishlist/) to see what we're in need of and how equipment donations work at Chimera.
 
 
 ## Money
