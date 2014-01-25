@@ -7,7 +7,7 @@ title: "Teach at Chimera"
 Here are some things to know about being a teacher Chimera:
 
 - You don't need to have a degree in your area of knowledge (but that's a plus!).
-- We take a percentage of class proceeds for paid classes. Usually it is *65% to you and 35% to us*. We're open to negotiation and will always take more than that!
+- We take a percentage of class proceeds for paid classes. Usually it is *50% to you and 50% to the Chimera*. 
 - You *don't need to be a member to teach a class at Chimera*, although members earn more when teaching.
 - Members get a discount on classes.
 - Classes are *open to the public*.
