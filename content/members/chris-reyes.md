@@ -16,3 +16,5 @@ I invariably balance my bicycle at red lights, enjoy my neighbor's home brew and
 I'd really like to revive my rusty micro-processor and welding skills.  My next big projects will be Daft Punk helmets and a bamboo bicycle.
 
 I'd really like to connect to creative local people.  
+
+You can [email me here](teenyhermitcrab@gmail.com).
