@@ -15,7 +15,7 @@ p,
 ul,
 ol {
   line-height: 1.6;
-  margin: 0 0 1.55em 0
+  margin: 0 0 1.55em 0;
 }
 
 a {
@@ -32,8 +32,16 @@ em {
   padding: 0.1em 0.4em;
 }
 
-ul, ol {
+ul, 
+ol {
   padding-left: 1.25em;
+  margin: 1.55em 0;
+}
+ul ul,
+ul ol,
+ol ol,
+ol ul {
+  margin: 1em 0;
 }
 
 h1,
