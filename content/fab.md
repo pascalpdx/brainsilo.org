@@ -79,7 +79,7 @@ The most important way you can get involved is to pre-pay for membership. We're 
 If we do not reach our goal in a sufficient timeline, we will refund your money. You can also request us to refund your money any time before we settle on a space (we will let you know before we cash checks!). But remember, this is a big undertaking and will take time; please be patient.
 
 
-### Doante
+### Donate
 
 If you don't have the money to pre-pay for membership, but want to help us, **please consider [donating](/donate/)**.
 
