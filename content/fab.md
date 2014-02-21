@@ -8,15 +8,15 @@ title: "Fabrication Shop Project"
 ## Current Progress
 
 **Goal:** $12,000  
-**Raised:** $1,570
+**Raised:** $1,870
 
 <div class="progress progress-striped">
-  <div class="progress-bar progress-bar-success" role="progressbar" style="width: 13%;">
-    <span class="sr-only">13% Complete</span>
+  <div class="progress-bar progress-bar-success" role="progressbar" style="width: 16%;">
+    <span class="sr-only">16% Complete</span>
   </div>
 </div>
 
-As of January 30th, we have **collected $1,570** out of our **goal of $12,000**.
+As of February 20th, we have **collected $1,870** out of our **goal of $12,000**.
 
 
 ## The Plan
