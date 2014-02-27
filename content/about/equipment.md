@@ -47,4 +47,3 @@ Chimera has a growing collection of **awesome tools and equipment** at [our spac
 ## Have a Donation?
 
 Head over to our [Donate page](/donate/) to learn how donations work at Chimera.
-
