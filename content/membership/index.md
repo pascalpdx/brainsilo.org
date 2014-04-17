@@ -29,7 +29,7 @@ The **key reasons to become a member of Chimera** include:
 
 If this sounds like something you'd love to be a part of, please click the button below!
 
-<a href="http://chimera.nationbuilder.com/early_adopter_membership" class="btn btn-primary btn-lg">Become a Member</a>
+<a href="https://chimeraarts.herokuapp.com/" class="btn btn-primary btn-lg">Become a Member</a>
 
 If you haven't seen our space yet but are interested in being one of our first members, [come to a meetup](/calendar/) or [contact us](/contact/) to setup a tour.
 
