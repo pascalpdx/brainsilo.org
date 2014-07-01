@@ -1,29 +1,16 @@
 ---
-title: "Chimera's History"
+title: "BrainSilo's History"
 ---
 
 ## Founding & Early Days
 
-Chimera was founded in early 2012 by [Dana Woodman](/about/leadership/) and a small group of people who had a vision for Sonoma County and what it could become. We founded Chimera both as a space to create and a hub for the creative community in this area.
+The idea of a hackerspace in Portland was a recurring theme at BarCamp and other unconferences and meetups since at least 2008, but very little progress was made until space was rented in 2010.  On January 1st, 2010 [Loki](/about/leadership/) signed a lease on space he and Cat had found in an industrial area of Portland.
 
-For the first few months of our history, we grew our community from a few friends to a group of over 800 people. *We quickly realized that Sonoma County and the North Bay was craving a space like Chimera*, so we set making the dream a reality.
-
-
-## Ford Garage
-
-After searching for a space, the Chimera founders settled on the old Ford Garage building in downtown Sebastopol.
-
-Our initial momentum slowed when the realities of the space we had chosen became clear. The City of Sebastopol required us to install fire sprinklers and emergency access doors into our main, 5,000 sq.ft. space before opening. 
-
-Luckily our *landlord was a believer in our mission* and decided to undertake the renovations himself.
-
+Originally just called "PDX Hackerspace", it took a few months for an organization to be created - BrainSilo.
 
 ## Today
 
-We **opened for membership in December 2013** after getting our business license and insurance. 
-
-We're operating in our smaller, 700 sq.ft. mini-makerspace in the back lot of the Ford Garage until the main space is ready for us to move in.
-
+We're still operating in our original, 850 sq.ft. space, and we're open to members 24/7.
 
 ## Tomorrow
 

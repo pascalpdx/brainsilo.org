@@ -1,13 +1,13 @@
 ---
-title: "Get in Touch with Chimera"
+title: "Get in Touch with BrainSilo"
 ---
 
 
 ## Got Questions?
 
-**If you've got general questions about Chimera, first reach out to members on our [Google Group](https://groups.google.com/forum/#!forum/chimera-art-space)**. Our members can answer most common questions about Chimera. 
+**If you've got general questions about BrainSilo, first reach out to members on our [Google Group](https://groups.google.com/forum/#!forum/pdxhackerspace)**. Our members can answer most common questions about BrainSilo. 
 
-If you want to get in touch with [Chimera administrators](/about/leadership/), please email us at: [info@chimeraarts.org](mailto:info@chimeraarts.org). 
+If you want to get in touch with [BrainSilo leadership](/about/leadership/), please email us at: [admin@brainsilo.org](mailto:admin@brainsilo.org). 
 
 ***Note:** Please be patient if we don't respond right away, we get lots of email and we are all volunteers!*
 
@@ -19,25 +19,29 @@ If you'd like to donate equipment, time or money, please head on over to our [Do
 
 ## Want to Teach?
 
-If you're interested in teaching at Chimera, please learn more no our [Teachers page](/about/teaching/).
+If you're interested in teaching at BrainSilo, please learn more no our [Teachers page](/about/teaching/).
 
 
 ## Stay In Touch
 
-If you're curious about staying up to date with what's going on at Chimera, *sign up to our [email newsletter](http://eepurl.com/zRv7D)* to get an email once a month with announcements of new classes/events/meetups as well as news and updates. 
+If you're curious about staying up to date with what's going on at BrainSilo, *join our [Google Group][google-group]* to get news and updates. 
 
 
 ## Contact Info
 
+Our **email** is: 
+
+> [admin@brainsilo.org](mailto:admin@brainsilo.org)
+
 Our **address** is:
 
-> 6791 Sebastopol Ave.  
-Sebastopol, CA 95472
+> 2119 N Kerby Ave, Unit C-2, Portland, OR 97227-1978
 
 Our **phone number** is: 
 
-> (707) 861-0278
+>  (503) 764-4220
 
-Our **email** is: 
+Our **emergency contact only** phone number is:
+> (877) 456-5558
 
-> [info@chimeraarts.org](mailto:info@chimeraarts.org)
+[google-group]: https://groups.google.com/forum/#!forum/pdxhackerspace

@@ -2,9 +2,14 @@
 title: "Branding Assets"
 ---
 
-## Logo
+## Horizontal Logo
 
-- [PNG file](/static/assets/logo/chimera-logo.png)
-- [PSD file](/static/assets/logo/chimera-logo.psd)
-- [EPS file](/static/assets/logo/chimera-logo.eps)
-- [DWG file](/static/assets/logo/chimera-logo.dwg)
+- [SVG file](/static/assets/logo/brainsilo_sticker.svg)
+
+## Square Logo
+
+- [SVG file](/static/assets/logo/brainsilo_relay.svg)
+
+## Sticker
+- [SVG file](/static/assets/logo/brainsilo_sticker.svg)
+- [EPS Proof file](/static/assets/logo/brainsilo_sticker_proof.eps)

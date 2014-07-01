@@ -1,21 +1,21 @@
 ---
-title: "Teach at Chimera"
+title: "Teach at BrainSilo"
 ---
 
-**Interested in teaching at Chimera?** We're always looking for talented educators to teach classes at Chimera.
+**Interested in teaching at BrainSilo?** We're always looking for talented educators to teach classes at BrainSilo.
 
-Here are some things to know about being a teacher Chimera:
+Here are some things to know about being a teacher BrainSilo:
 
 - You don't need to have a degree in your area of knowledge (but that's a plus!).
-- We take a percentage of class proceeds for paid classes. Usually it is *50% to you and 50% to the Chimera*. 
-- You *don't need to be a member to teach a class at Chimera*, although members earn more when teaching.
-- Members get a discount on classes.
+- We take a percentage of class proceeds for ***paid*** classes. Usually it is *50% to you and 50% to BrainSilo*.
+- There is no usage fee for ***free*** classes.
+- You *don't need to be a member to teach a class at BrainSilo*, although a member is required to sponsor your class (opening/closing the space, etc).
+- Members must recieve a discount on classes.
 - Classes are *open to the public*.
 - We appreciate references so we can vet you as a teacher.
-- *Classes must be 6 students or less*.
 
 
-If you're interested in teaching a class, *the first step is to post your idea in our [Google Group](https://groups.google.com/forum/#!forum/chimera-art-space)* to see if members would be interested.
+If you're interested in teaching a class, *the first step is to post your idea in our [Google Group](https://groups.google.com/forum/#!forum/pdxhackerspace)* to see if members would be interested.
 
 
 ## Let Us Know

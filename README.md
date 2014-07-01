@@ -1,8 +1,8 @@
-# ChimeraArts.org
+# BrainSilo.org
 
-The website source code for <http://www.chimeraarts.org>.
+The website source code for <http://www.brainsilo.org>.
 
-If you've found a problem with the site (missing content, typos, etc...), please either fork this repository and send a pull request or [create an issue](/chimera/chimeraarts.org/issues).
+If you've found a problem with the site (missing content, typos, etc...), please either fork this repository and send a pull request or [create an issue](/lokkju/brainsilo.org/issues).
 
 The website is built with [Hugo](http://hugo.spf13.com), a static site generator written in Golang.
 
@@ -24,14 +24,14 @@ Site content is found in the `content` directory and is written in Markdown.
 
 ## Deployment
 
-In order to deploy to this repository, you'll need commit access. Create an [issue](https://github.com/chimera/chimeraarts.org/issues/) if you want commit access.
+In order to deploy to this repository, you'll need commit access. Create an [issue](https://github.com/lokkju/brainsilo.org/issues/) if you want commit access.
 
 
 ### Git Subtree
 
 This project contains a git subtree at `public`. In order to setup the subtree, you need to add it as a remote repository by running the following:
 
-    git remote add public https://github.com/chimera/chimera.github.io.git
+    git remote add public https://github.com/lokkju/brainsilo.github.io.git
 
 The subtree references the repository that contains the generated content for the site which is used by Github Pages. Pushing changes to that repo will automatically trigger a rebuild of the site.
 
@@ -51,6 +51,7 @@ Content released under the [Creative Commons Share-Alike 2.5 License](http://cre
 
 
 ## Credits
+Modified for BrainSilo by [Loki](http://www.lokkju.com/)
 
 Created by [Dana Woodman](http://danawoodman.com).
 

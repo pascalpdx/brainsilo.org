@@ -1,14 +1,15 @@
 ---
-title: "Chimera's Wish List"
+title: "BrainSilo's Wish List"
 ---
 
-Chimera is in need of the following items to outfit our space. If you have some of the following items, **please post on our** [**Google Group**][google-group] **describing what you have** (and ideally a photo or two).
+BrainSilo would love some of the following items to outfit our space. If you have some of the following items that you'd be willing to donate, **please post on our** [**Google Group**][google-group] **describing what you have** (and ideally a photo or two).
 
 ## Cool Toys
 
 - Laser cutter
 - 3D printers
 - CNC mills
+- Band saw
 
 
 ## Organizational
@@ -16,7 +17,6 @@ Chimera is in need of the following items to outfit our space. If you have some 
 - Cabinets
 - Storage containers
 - Peg boards (and hooks)
-- Window blinds
 
 ## Parts
 
@@ -28,18 +28,14 @@ Chimera is in need of the following items to outfit our space. If you have some 
 ## Tools
 
 - Functional power tools (saws, drills, etc...)
-- Tarps
 - Clamps
 
 
 ## Office / Kitchen
 
 - Office chairs!!!
-- White boards
-- Cork boards
 - Projectors (and screens)
 - Water tower (hot water a plus)
-- Full size refrigerator (clean and working!)
 
 
 ## Decorations
@@ -61,4 +57,4 @@ For items not in the list above, **we require a member to take responsibility fo
 
 Post your item in our [**Google Group**][google-group] or reach out to a member who might be interested in taking responsibility for your item.
 
-[google-group]: https://groups.google.com/forum/#!forum/chimera-art-space
+[google-group]: https://groups.google.com/forum/#!forum/pdxhackerspace

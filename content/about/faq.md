@@ -2,16 +2,12 @@
 title: "Frequently Asked Questions"
 ---
 
-### Where is Chimera?
+### Where is BrainSilo?
 
-We're located in downtown Sebastopol, California, an hour north of San Francisco. [Learn more](/about/)
+We're located near downtown Portland, Oregon. [Learn more](/about/)
 
 
-### What tools and equipment does Chimera have?
+### What tools and equipment does BrainSilo have?
 
 Head over to our [tools and equipment](/about/equipment/) page to learn about what we have to offer.
 
-
-### How do you pronounce Chimera?
-
-{{% youtube HNagWRD96Wg %}}

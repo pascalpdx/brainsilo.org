@@ -1,26 +1,15 @@
 ---
-title: "Equipment and Tools at Chimera"
+title: "Equipment and Tools at BrainSilo"
 ---
 
-Chimera has a growing collection of **awesome tools and equipment** at [our space](/about/space/). Below is an incomplete list:
+BrainSilo has a growing collection of **awesome tools and equipment** at [our space](/about/space/). Below is an incomplete list:
 
 ## Fabrication
 
-- 3D printer (Solidoodle)
-- Benchtop multi-axis CNC
-
-
-## Jewelry
-
-- Rolling mill
-- Dapping and forming tools
-- Hand saws
-- Bench top sander
-- Small drill press
-- Flex shafts
-- Pickle pots
-- Tons of other tools and supplies.
-
+- 2x Delta 3D printers
+- 1x Makerbot Replicator 3D printer
+- 2x Benchtop multi-axis CNC
+- Free-standing multi-axis CNC
 
 ## Electronics
 
@@ -32,10 +21,8 @@ Chimera has a growing collection of **awesome tools and equipment** at [our spac
 - Various parts (LEDs, resistors, stepper and servo motors and more)
 - Test equipment
 
-
 ## Other Things
 
-- Photography strobe setup
 - Lots of hand tools
 - Drawing and painting supplies
 - Work benches
@@ -46,4 +33,4 @@ Chimera has a growing collection of **awesome tools and equipment** at [our spac
 
 ## Have a Donation?
 
-Head over to our [Donate page](/donate/) to learn how donations work at Chimera.
+Head over to our [Donate page](/donate/) to learn how donations work at BrainSilo.
