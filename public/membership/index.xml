@@ -3,7 +3,7 @@
   <channel>
       <title>Memberships on BrainSilo - Portland&#39;s Hackerspace </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://localhost:1313/membership/index.xml</link>
+    <link>http://www.brainsilo.org/membership/index.xml</link>
     
     
     
@@ -11,10 +11,10 @@
     
     <item>
       <title>Become a Member</title>
-      <link>http://localhost:1313/membership</link>
+      <link>http://www.brainsilo.org/membership</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
       
-      <guid>http://localhost:1313/membership</guid>
+      <guid>http://www.brainsilo.org/membership</guid>
       <description>
 
 &lt;p&gt;BrainSilo is open for membership!&lt;/p&gt;
@@ -93,10 +93,10 @@
     
     <item>
       <title>Membership Agreement &amp; Liability Release</title>
-      <link>http://localhost:1313/membership/agreement</link>
+      <link>http://www.brainsilo.org/membership/agreement</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
       
-      <guid>http://localhost:1313/membership/agreement</guid>
+      <guid>http://www.brainsilo.org/membership/agreement</guid>
       <description>
 
 &lt;p&gt;If you&amp;rsquo;re interested in becoming a member, please read our &lt;strong&gt;Membership Agreement&lt;/strong&gt; and &lt;strong&gt;Liability Release&lt;/strong&gt; all the way through and make sure that you can abide by them as a member.&lt;/p&gt;
