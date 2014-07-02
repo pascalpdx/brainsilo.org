@@ -8,6 +8,11 @@
   </url>
   
   <url>
+    <loc>http://www.brainsilo.org/about/mission</loc>
+    <lastmod>2008-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.brainsilo.org/about/assets</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -28,6 +33,11 @@
   </url>
   
   <url>
+    <loc>http://www.brainsilo.org/about/equipment</loc>
+    <lastmod>2008-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.brainsilo.org/about/history</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -38,22 +48,12 @@
   </url>
   
   <url>
-    <loc>http://www.brainsilo.org/about/mission</loc>
-    <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.brainsilo.org/about/equipment</loc>
-    <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://www.brainsilo.org/calendar</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.brainsilo.org/about/teaching</loc>
+    <loc>http://www.brainsilo.org/about/space</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -63,7 +63,7 @@
   </url>
   
   <url>
-    <loc>http://www.brainsilo.org/about/space</loc>
+    <loc>http://www.brainsilo.org/about/teaching</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
   </url>
   

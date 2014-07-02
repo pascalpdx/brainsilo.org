@@ -10,6 +10,20 @@
     <updated>Tue, 01 Jan 2008 00:00:00 UTC</updated>
     
     <item>
+      <title>Mission and Vision</title>
+      <link>http://www.brainsilo.org/about/mission</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
+      
+      <guid>http://www.brainsilo.org/about/mission</guid>
+      <description>
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Our Mission&lt;/h2&gt;
+
+&lt;p&gt;Our mission is to sustain an environment where people can educate themselves and others in order to create and expand junctions of technology, art, science, and culture.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Branding Assets</title>
       <link>http://www.brainsilo.org/about/assets</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
@@ -111,6 +125,54 @@
     </item>
     
     <item>
+      <title>Equipment and Tools at BrainSilo</title>
+      <link>http://www.brainsilo.org/about/equipment</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
+      
+      <guid>http://www.brainsilo.org/about/equipment</guid>
+      <description>
+
+&lt;p&gt;BrainSilo has a growing collection of &lt;strong&gt;awesome tools and equipment&lt;/strong&gt; at &lt;a href=&#34;/about/space/&#34;&gt;our space&lt;/a&gt;. Below is an incomplete list:&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Fabrication&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;2x Delta 3D printers&lt;/li&gt;
+&lt;li&gt;1x Makerbot Replicator 3D printer&lt;/li&gt;
+&lt;li&gt;2x Benchtop multi-axis CNC&lt;/li&gt;
+&lt;li&gt;Free-standing multi-axis CNC&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;Electronics&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Digital oscilloscope&lt;/li&gt;
+&lt;li&gt;Adjustable power supplies&lt;/li&gt;
+&lt;li&gt;Soldering stations&lt;/li&gt;
+&lt;li&gt;Breadboards&lt;/li&gt;
+&lt;li&gt;Heat shrink gun&lt;/li&gt;
+&lt;li&gt;Various parts (LEDs, resistors, stepper and servo motors and more)&lt;/li&gt;
+&lt;li&gt;Test equipment&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;toc_2&#34;&gt;Other Things&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Lots of hand tools&lt;/li&gt;
+&lt;li&gt;Drawing and painting supplies&lt;/li&gt;
+&lt;li&gt;Work benches&lt;/li&gt;
+&lt;li&gt;Whiteboards&lt;/li&gt;
+&lt;li&gt;Kitchenette&lt;/li&gt;
+&lt;li&gt;Heating/AC&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;toc_3&#34;&gt;Have a Donation?&lt;/h2&gt;
+
+&lt;p&gt;Head over to our &lt;a href=&#34;/donate/&#34;&gt;Donate page&lt;/a&gt; to learn how donations work at BrainSilo.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>BrainSilo&#39;s History</title>
       <link>http://www.brainsilo.org/about/history</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
@@ -161,68 +223,6 @@
     </item>
     
     <item>
-      <title>Mission and Vision</title>
-      <link>http://www.brainsilo.org/about/mission</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
-      
-      <guid>http://www.brainsilo.org/about/mission</guid>
-      <description>
-
-&lt;h2 id=&#34;toc_0&#34;&gt;Our Mission&lt;/h2&gt;
-
-&lt;p&gt;Our mission is to sustain an environment where people can educate themselves and others in order to create and expand junctions of technology, art, science, and culture.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Equipment and Tools at BrainSilo</title>
-      <link>http://www.brainsilo.org/about/equipment</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
-      
-      <guid>http://www.brainsilo.org/about/equipment</guid>
-      <description>
-
-&lt;p&gt;BrainSilo has a growing collection of &lt;strong&gt;awesome tools and equipment&lt;/strong&gt; at &lt;a href=&#34;/about/space/&#34;&gt;our space&lt;/a&gt;. Below is an incomplete list:&lt;/p&gt;
-
-&lt;h2 id=&#34;toc_0&#34;&gt;Fabrication&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;2x Delta 3D printers&lt;/li&gt;
-&lt;li&gt;1x Makerbot Replicator 3D printer&lt;/li&gt;
-&lt;li&gt;2x Benchtop multi-axis CNC&lt;/li&gt;
-&lt;li&gt;Free-standing multi-axis CNC&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;toc_1&#34;&gt;Electronics&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Digital oscilloscope&lt;/li&gt;
-&lt;li&gt;Adjustable power supplies&lt;/li&gt;
-&lt;li&gt;Soldering stations&lt;/li&gt;
-&lt;li&gt;Breadboards&lt;/li&gt;
-&lt;li&gt;Heat shrink gun&lt;/li&gt;
-&lt;li&gt;Various parts (LEDs, resistors, stepper and servo motors and more)&lt;/li&gt;
-&lt;li&gt;Test equipment&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;toc_2&#34;&gt;Other Things&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Lots of hand tools&lt;/li&gt;
-&lt;li&gt;Drawing and painting supplies&lt;/li&gt;
-&lt;li&gt;Work benches&lt;/li&gt;
-&lt;li&gt;Whiteboards&lt;/li&gt;
-&lt;li&gt;Kitchenette&lt;/li&gt;
-&lt;li&gt;Heating/AC&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;toc_3&#34;&gt;Have a Donation?&lt;/h2&gt;
-
-&lt;p&gt;Head over to our &lt;a href=&#34;/donate/&#34;&gt;Donate page&lt;/a&gt; to learn how donations work at BrainSilo.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Calendar</title>
       <link>http://www.brainsilo.org/calendar</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
@@ -245,43 +245,37 @@
     </item>
     
     <item>
-      <title>Teach at BrainSilo</title>
-      <link>http://www.brainsilo.org/about/teaching</link>
+      <title>BrainSilo&#39;s Space</title>
+      <link>http://www.brainsilo.org/about/space</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
       
-      <guid>http://www.brainsilo.org/about/teaching</guid>
+      <guid>http://www.brainsilo.org/about/space</guid>
       <description>
 
-&lt;p&gt;&lt;strong&gt;Interested in teaching at BrainSilo?&lt;/strong&gt; We&amp;rsquo;re always looking for talented educators to teach classes at BrainSilo.&lt;/p&gt;
+&lt;figure class=&#34;block-image text-center&#34;&gt;
+  &lt;img src=&#34;#ZgotmplZ&#34; class=&#34;img-responsive img-thumbnail&#34;&gt;
+  
+    &lt;figcaption class=&#34;text-muted&#34;&gt;BrainSilo Aerial View&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
 
-&lt;p&gt;Here are some things to know about being a teacher BrainSilo:&lt;/p&gt;
+&lt;h2 id=&#34;toc_0&#34;&gt;Current Space&lt;/h2&gt;
 
-&lt;ul&gt;
-&lt;li&gt;You don&amp;rsquo;t need to have a degree in your area of knowledge (but that&amp;rsquo;s a plus!).&lt;/li&gt;
-&lt;li&gt;We take a percentage of class proceeds for &lt;strong&gt;&lt;em&gt;paid&lt;/em&gt;&lt;/strong&gt; classes. Usually it is &lt;em&gt;50% to you and 50% to BrainSilo&lt;/em&gt;.&lt;/li&gt;
-&lt;li&gt;There is no usage fee for &lt;strong&gt;&lt;em&gt;free&lt;/em&gt;&lt;/strong&gt; classes.&lt;/li&gt;
-&lt;li&gt;You &lt;em&gt;don&amp;rsquo;t need to be a member to teach a class at BrainSilo&lt;/em&gt;, although a member is required to sponsor your class (opening/closing the space, etc).&lt;/li&gt;
-&lt;li&gt;Members must recieve a discount on classes.&lt;/li&gt;
-&lt;li&gt;Classes are &lt;em&gt;open to the public&lt;/em&gt;.&lt;/li&gt;
-&lt;li&gt;We appreciate references so we can vet you as a teacher.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;BrainSilo is currently renting a small industrial space near downtown.&lt;/p&gt;
 
-&lt;p&gt;If you&amp;rsquo;re interested in teaching a class, &lt;em&gt;the first step is to post your idea in our &lt;a href=&#34;https://groups.google.com/forum/#!forum/pdxhackerspace&#34;&gt;Google Group&lt;/a&gt;&lt;/em&gt; to see if members would be interested.&lt;/p&gt;
+&lt;p&gt;This space is great for anyone doing smaller projects - arts and crafts, jewelry, software or hardware design or anyone working on a computer or who doesn&amp;rsquo;t require a lot of space to work.&lt;/p&gt;
 
-&lt;h2 id=&#34;toc_0&#34;&gt;Let Us Know&lt;/h2&gt;
+&lt;p&gt;It&amp;rsquo;s 850sq. ft., in an L shape, with about 16&amp;rsquo; ceilings, and has a dock-loading height garage door.&lt;/p&gt;
 
-&lt;p&gt;After you&amp;rsquo;ve read and completed the above, &lt;a href=&#34;/contact/&#34;&gt;contact us&lt;/a&gt; with the following information:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Curious about what equipment and tools we have?&lt;/strong&gt; Check out our &lt;a href=&#34;/about/equipment/&#34;&gt;list of equipment&lt;/a&gt;.&lt;/p&gt;
 
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Proposed date(s)/time(s)&lt;/strong&gt; for your class (give us alternates in case a date isn&amp;rsquo;t available)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Class fee&lt;/strong&gt; per student (if any)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Materials fee&lt;/strong&gt; (if any)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Prerequisites&lt;/strong&gt; for students (if any)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Class description&lt;/strong&gt; (2-3 paragraphs about the class, what will be taught and who the class is relevant to)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Teacher bio&lt;/strong&gt; (why should people trust you as a teacher?)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Age restrictions&lt;/strong&gt; for students (e.g. if it&amp;rsquo;s an adults only class, let us know!)&lt;/li&gt;
-&lt;li&gt;Any &lt;strong&gt;photos&lt;/strong&gt; of what students will learn (helps to sell your class)&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;If this sounds interesting to you, learn more about &lt;a href=&#34;/membership/&#34;&gt;membership&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;Future Space&lt;/h2&gt;
+
+&lt;p&gt;We&amp;rsquo;re in the process of an effort to rent a larger fabrication facility that will serve the needs of members that want to do metalwork and other large/messy forms of art.&lt;/p&gt;
+
+&lt;p&gt;If you&amp;rsquo;re interested in getting involved in our planning process, check out our &lt;a href=&#34;https://groups.google.com/forum/#!forum/pdxhackerspace&#34;&gt;Google Group&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -342,37 +336,43 @@
     </item>
     
     <item>
-      <title>BrainSilo&#39;s Space</title>
-      <link>http://www.brainsilo.org/about/space</link>
+      <title>Teach at BrainSilo</title>
+      <link>http://www.brainsilo.org/about/teaching</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
       
-      <guid>http://www.brainsilo.org/about/space</guid>
+      <guid>http://www.brainsilo.org/about/teaching</guid>
       <description>
 
-&lt;figure class=&#34;block-image text-center&#34;&gt;
-  &lt;img src=&#34;#ZgotmplZ&#34; class=&#34;img-responsive img-thumbnail&#34;&gt;
-  
-    &lt;figcaption class=&#34;text-muted&#34;&gt;BrainSilo Aerial View&lt;/figcaption&gt;
-  
-&lt;/figure&gt;
+&lt;p&gt;&lt;strong&gt;Interested in teaching at BrainSilo?&lt;/strong&gt; We&amp;rsquo;re always looking for talented educators to teach classes at BrainSilo.&lt;/p&gt;
 
-&lt;h2 id=&#34;toc_0&#34;&gt;Current Space&lt;/h2&gt;
+&lt;p&gt;Here are some things to know about being a teacher BrainSilo:&lt;/p&gt;
 
-&lt;p&gt;BrainSilo is currently renting a small industrial space near downtown.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;You don&amp;rsquo;t need to have a degree in your area of knowledge (but that&amp;rsquo;s a plus!).&lt;/li&gt;
+&lt;li&gt;We take a percentage of class proceeds for &lt;strong&gt;&lt;em&gt;paid&lt;/em&gt;&lt;/strong&gt; classes. Usually it is &lt;em&gt;50% to you and 50% to BrainSilo&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;There is no usage fee for &lt;strong&gt;&lt;em&gt;free&lt;/em&gt;&lt;/strong&gt; classes.&lt;/li&gt;
+&lt;li&gt;You &lt;em&gt;don&amp;rsquo;t need to be a member to teach a class at BrainSilo&lt;/em&gt;, although a member is required to sponsor your class (opening/closing the space, etc).&lt;/li&gt;
+&lt;li&gt;Members must recieve a discount on classes.&lt;/li&gt;
+&lt;li&gt;Classes are &lt;em&gt;open to the public&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;We appreciate references so we can vet you as a teacher.&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;This space is great for anyone doing smaller projects - arts and crafts, jewelry, software or hardware design or anyone working on a computer or who doesn&amp;rsquo;t require a lot of space to work.&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;re interested in teaching a class, &lt;em&gt;the first step is to post your idea in our &lt;a href=&#34;https://groups.google.com/forum/#!forum/pdxhackerspace&#34;&gt;Google Group&lt;/a&gt;&lt;/em&gt; to see if members would be interested.&lt;/p&gt;
 
-&lt;p&gt;It&amp;rsquo;s 850sq. ft., in an L shape, with about 16&amp;rsquo; ceilings, and has a dock-loading height garage door.&lt;/p&gt;
+&lt;h2 id=&#34;toc_0&#34;&gt;Let Us Know&lt;/h2&gt;
 
-&lt;p&gt;&lt;strong&gt;Curious about what equipment and tools we have?&lt;/strong&gt; Check out our &lt;a href=&#34;/about/equipment/&#34;&gt;list of equipment&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;After you&amp;rsquo;ve read and completed the above, &lt;a href=&#34;/contact/&#34;&gt;contact us&lt;/a&gt; with the following information:&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;If this sounds interesting to you, learn more about &lt;a href=&#34;/membership/&#34;&gt;membership&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;toc_1&#34;&gt;Future Space&lt;/h2&gt;
-
-&lt;p&gt;We&amp;rsquo;re in the process of an effort to rent a larger fabrication facility that will serve the needs of members that want to do metalwork and other large/messy forms of art.&lt;/p&gt;
-
-&lt;p&gt;If you&amp;rsquo;re interested in getting involved in our planning process, check out our &lt;a href=&#34;https://groups.google.com/forum/#!forum/pdxhackerspace&#34;&gt;Google Group&lt;/a&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Proposed date(s)/time(s)&lt;/strong&gt; for your class (give us alternates in case a date isn&amp;rsquo;t available)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Class fee&lt;/strong&gt; per student (if any)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Materials fee&lt;/strong&gt; (if any)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Prerequisites&lt;/strong&gt; for students (if any)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Class description&lt;/strong&gt; (2-3 paragraphs about the class, what will be taught and who the class is relevant to)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Teacher bio&lt;/strong&gt; (why should people trust you as a teacher?)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Age restrictions&lt;/strong&gt; for students (e.g. if it&amp;rsquo;s an adults only class, let us know!)&lt;/li&gt;
+&lt;li&gt;Any &lt;strong&gt;photos&lt;/strong&gt; of what students will learn (helps to sell your class)&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
