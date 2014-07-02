@@ -14,6 +14,6 @@ BrainSilo is a hackspace and maker space in Portland, Oregon. We're a diverse gr
 - Learn about [BrainSilo's history](/about/history/).
 - See who is on our [board and leadership committees](/about/leadership/).
 - Learn about our [current space](/about/space/).
-- [Teach at Chimera](/about/teaching/).
+- [Teach at BrainSilo](/about/teaching/).
 - Download our [logo and other assets](/about/assets/).
 - Interested in donating? Checkout our [Donate page](/donate/) and our [Wishlist](/wishlist/).

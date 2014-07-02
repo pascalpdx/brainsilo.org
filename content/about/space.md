@@ -2,7 +2,7 @@
 title: "BrainSilo's Space"
 ---
 
-{{% image http://maps.googleapis.com/maps/api/staticmap?center=45.53822,-122.6726&zoom=17&scale=false&size=600x300&maptype=roadmap&sensor=false&format=png&visual_refresh=true&markers=size:mid%7Ccolor:red%7C45.53822,-122.6726 "BrainSilo Airial View %}}
+{{% image http://maps.googleapis.com/maps/api/staticmap?center=45.53822,-122.6726&zoom=17&scale=false&size=600x300&maptype=roadmap&sensor=false&format=png&visual_refresh=true&markers=size:mid%7Ccolor:red%7C45.53822,-122.6726 "BrainSilo Aerial View" %}}
 
 ## Current Space
 
@@ -19,6 +19,6 @@ It's 850sq. ft., in an L shape, with about 16' ceilings, and has a dock-loading 
 
 ## Future Space
 
-We're in the process of an effort to rent a larger fabrication facility that will serve the needs of members that want to do metalwork and other large/messy forms of art. 
+We're in the process of an effort to rent a larger fabrication facility that will serve the needs of members that want to do metalwork and other large/messy forms of art.
 
 If you're interested in getting involved in our planning process, check out our [Google Group](https://groups.google.com/forum/#!forum/pdxhackerspace).

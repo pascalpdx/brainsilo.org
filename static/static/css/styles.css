@@ -32,7 +32,7 @@ em {
   padding: 0.1em 0.4em;
 }
 
-ul, 
+ul,
 ol {
   padding-left: 1.25em;
   margin: 1.55em 0;
@@ -118,9 +118,10 @@ h3 {
 ========================================================*/
 
 .hompage-jumbotron {
-  background: url('/static/img/photos/pliers.jpg') no-repeat;
+  background: url('/static/img/photos/mainfloor.jpg') no-repeat ;
   -webkit-background-size: cover;
   background-size: cover;
+  background-position: 50% 25%;
   margin-top: -1.2em;
   padding-bottom: 4em;
   padding-top: 4em;
@@ -141,7 +142,7 @@ h3 {
 ========================================================*/
 
 .page-nav {
-  background: #f2f4ef url('/static/img/gray-grid.png');
+  background: #f2f4ef url('/static/img/circuit-tile-grey.png');
   border-radius: 0;
   border-bottom: 1px solid #e3e3e3;
   /*margin: 0 0 2.5em 0;*/
@@ -161,7 +162,7 @@ h3 {
 ========================================================*/
 
 .page-footer {
-  background: #f2f4ef url('/static/img/gray-grid.png');
+  background: #f2f4ef url('/static/img/circuit-tile-grey.png');
   border-bottom: 1px solid #e3e3e3;
   border-top: 1px solid #e3e3e3;
   margin-top: 4em;
