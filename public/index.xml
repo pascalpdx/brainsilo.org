@@ -24,103 +24,29 @@
     </item>
     
     <item>
-      <title>Frequently Asked Questions</title>
-      <link>http://www.brainsilo.org/about/faq</link>
+      <title>Current Status</title>
+      <link>http://www.brainsilo.org/about/status</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
       
-      <guid>http://www.brainsilo.org/about/faq</guid>
+      <guid>http://www.brainsilo.org/about/status</guid>
       <description>
 
-&lt;h3 id=&#34;toc_0&#34;&gt;Where is BrainSilo?&lt;/h3&gt;
+&lt;h2 id=&#34;toc_0&#34;&gt;Membership&lt;/h2&gt;
 
-&lt;p&gt;We&amp;rsquo;re located near downtown Portland, Oregon. &lt;a href=&#34;/about/&#34;&gt;Learn more&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&#34;alert alert-success&#34;&gt;BrainSilo is currently &lt;strong&gt;open for membership&lt;/strong&gt;&lt;/div&gt;
 
-&lt;h3 id=&#34;toc_1&#34;&gt;What tools and equipment does BrainSilo have?&lt;/h3&gt;
+&lt;p&gt;Learn more about our &lt;a href=&#34;/about/space/&#34;&gt;current space&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Head over to our &lt;a href=&#34;/about/equipment/&#34;&gt;tools and equipment&lt;/a&gt; page to learn about what we have to offer.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Equipment and Tools at BrainSilo</title>
-      <link>http://www.brainsilo.org/about/equipment</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
-      
-      <guid>http://www.brainsilo.org/about/equipment</guid>
-      <description>
+&lt;h2 id=&#34;toc_1&#34;&gt;Fiscal Sponsorship&lt;/h2&gt;
 
-&lt;p&gt;BrainSilo has a growing collection of &lt;strong&gt;awesome tools and equipment&lt;/strong&gt; at &lt;a href=&#34;/about/space/&#34;&gt;our space&lt;/a&gt;. Below is an incomplete list:&lt;/p&gt;
+&lt;p&gt;BrainSilo is a fiscally-sponsored project of the &lt;a href=&#34;http://schoolfactory.org/&#34;&gt;School Factory, Inc. a 501&amp;copy;3 tax-exempt corporation&lt;/a&gt;, which is the organization that allows us to accept charitable donations.&lt;/p&gt;
 
-&lt;h2 id=&#34;toc_0&#34;&gt;Fabrication&lt;/h2&gt;
+&lt;h2 id=&#34;toc_2&#34;&gt;Learn More&amp;hellip;&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;2x Delta 3D printers&lt;/li&gt;
-&lt;li&gt;1x Makerbot Replicator 3D printer&lt;/li&gt;
-&lt;li&gt;2x Benchtop multi-axis CNC&lt;/li&gt;
-&lt;li&gt;Free-standing multi-axis CNC&lt;/li&gt;
+&lt;li&gt;Learn more about &lt;a href=&#34;/membership/&#34;&gt;membership&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Learn more about &lt;a href=&#34;/about/space/&#34;&gt;our space&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;h2 id=&#34;toc_1&#34;&gt;Electronics&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Digital oscilloscope&lt;/li&gt;
-&lt;li&gt;Adjustable power supplies&lt;/li&gt;
-&lt;li&gt;Soldering stations&lt;/li&gt;
-&lt;li&gt;Breadboards&lt;/li&gt;
-&lt;li&gt;Heat shrink gun&lt;/li&gt;
-&lt;li&gt;Various parts (LEDs, resistors, stepper and servo motors and more)&lt;/li&gt;
-&lt;li&gt;Test equipment&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;toc_2&#34;&gt;Other Things&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Lots of hand tools&lt;/li&gt;
-&lt;li&gt;Drawing and painting supplies&lt;/li&gt;
-&lt;li&gt;Work benches&lt;/li&gt;
-&lt;li&gt;Whiteboards&lt;/li&gt;
-&lt;li&gt;Kitchenette&lt;/li&gt;
-&lt;li&gt;Heating/AC&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;toc_3&#34;&gt;Have a Donation?&lt;/h2&gt;
-
-&lt;p&gt;Head over to our &lt;a href=&#34;/donate/&#34;&gt;Donate page&lt;/a&gt; to learn how donations work at BrainSilo.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>BrainSilo&#39;s Space</title>
-      <link>http://www.brainsilo.org/about/space</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
-      
-      <guid>http://www.brainsilo.org/about/space</guid>
-      <description>
-
-&lt;figure class=&#34;block-image text-center&#34;&gt;
-  &lt;img src=&#34;#ZgotmplZ&#34; class=&#34;img-responsive img-thumbnail&#34;&gt;
-  
-    &lt;figcaption class=&#34;text-muted&#34;&gt;BrainSilo Aerial View&lt;/figcaption&gt;
-  
-&lt;/figure&gt;
-
-&lt;h2 id=&#34;toc_0&#34;&gt;Current Space&lt;/h2&gt;
-
-&lt;p&gt;BrainSilo is currently renting a small industrial space near downtown.&lt;/p&gt;
-
-&lt;p&gt;This space is great for anyone doing smaller projects - arts and crafts, jewelry, software or hardware design or anyone working on a computer or who doesn&amp;rsquo;t require a lot of space to work.&lt;/p&gt;
-
-&lt;p&gt;It&amp;rsquo;s 850sq. ft., in an L shape, with about 16&amp;rsquo; ceilings, and has a dock-loading height garage door.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Curious about what equipment and tools we have?&lt;/strong&gt; Check out our &lt;a href=&#34;/about/equipment/&#34;&gt;list of equipment&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;If this sounds interesting to you, learn more about &lt;a href=&#34;/membership/&#34;&gt;membership&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;toc_1&#34;&gt;Future Space&lt;/h2&gt;
-
-&lt;p&gt;We&amp;rsquo;re in the process of an effort to rent a larger fabrication facility that will serve the needs of members that want to do metalwork and other large/messy forms of art.&lt;/p&gt;
-
-&lt;p&gt;If you&amp;rsquo;re interested in getting involved in our planning process, check out our &lt;a href=&#34;https://groups.google.com/forum/#!forum/pdxhackerspace&#34;&gt;Google Group&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -204,93 +130,95 @@
     </item>
     
     <item>
-      <title>Calendar</title>
-      <link>http://www.brainsilo.org/calendar</link>
+      <title>About BrainSilo</title>
+      <link>http://www.brainsilo.org/about</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
       
-      <guid>http://www.brainsilo.org/calendar</guid>
+      <guid>http://www.brainsilo.org/about</guid>
       <description>
 
-&lt;p&gt;Check out our &lt;a href=&#34;http://www.meetup.com/BrainSilo/events/calendar/&#34;&gt;Meetup Calendar&lt;/a&gt; to see all our upcoming classes, meetups and events!&lt;/p&gt;
+&lt;p&gt;BrainSilo is a hackspace and maker space in Portland, Oregon. We&amp;rsquo;re a diverse group of artists, makers, hackers and inventors who share a common desire to create, share and learn from each other.&lt;/p&gt;
 
-&lt;h2 id=&#34;toc_0&#34;&gt;Idea for an Event?&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Have an event or meetup you want to host?&lt;/strong&gt; Propose it on our &lt;a href=&#34;http://www.meetup.com/BrainSilo/&#34;&gt;Meetup.com page&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Want to teach at BrainSilo?&lt;/strong&gt; Check out our &lt;a href=&#34;/about/teaching/&#34;&gt;Teachers page&lt;/a&gt; to learn more.&lt;/p&gt;
-
-&lt;h2 id=&#34;toc_1&#34;&gt;Meetup.com&lt;/h2&gt;
-
-&lt;p&gt;We also recommend checking out our &lt;a href=&#34;http://www.meetup.com/BrainSilo/&#34;&gt;Meetup.com&lt;/a&gt; page if you want to get notified about new meetups and events.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Current Status</title>
-      <link>http://www.brainsilo.org/about/status</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
-      
-      <guid>http://www.brainsilo.org/about/status</guid>
-      <description>
-
-&lt;h2 id=&#34;toc_0&#34;&gt;Membership&lt;/h2&gt;
-
-&lt;div class=&#34;alert alert-success&#34;&gt;BrainSilo is currently &lt;strong&gt;open for membership&lt;/strong&gt;&lt;/div&gt;
-
-&lt;p&gt;Learn more about our &lt;a href=&#34;/about/space/&#34;&gt;current space&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;toc_1&#34;&gt;Fiscal Sponsorship&lt;/h2&gt;
-
-&lt;p&gt;BrainSilo is a fiscally-sponsored project of the &lt;a href=&#34;http://schoolfactory.org/&#34;&gt;School Factory, Inc. a 501&amp;copy;3 tax-exempt corporation&lt;/a&gt;, which is the organization that allows us to accept charitable donations.&lt;/p&gt;
-
-&lt;h2 id=&#34;toc_2&#34;&gt;Learn More&amp;hellip;&lt;/h2&gt;
+&lt;h2 id=&#34;toc_0&#34;&gt;Learn More&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Learn more about &lt;a href=&#34;/membership/&#34;&gt;membership&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Learn more about &lt;a href=&#34;/about/space/&#34;&gt;our space&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Read our &lt;a href=&#34;/about/faq/&#34;&gt;FAQ&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Check out our current &lt;a href=&#34;/about/status/&#34;&gt;organization status&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;See what &lt;a href=&#34;/about/equipment/&#34;&gt;tools and equipment&lt;/a&gt; we offer.&lt;/li&gt;
+&lt;li&gt;Read our &lt;a href=&#34;/about/mission/&#34;&gt;mission and vision statements&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Learn about &lt;a href=&#34;/about/history/&#34;&gt;BrainSilo&amp;rsquo;s history&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;See who is on our &lt;a href=&#34;/about/leadership/&#34;&gt;board and leadership committees&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Learn about our &lt;a href=&#34;/about/space/&#34;&gt;current space&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/about/teaching/&#34;&gt;Teach at BrainSilo&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Download our &lt;a href=&#34;/about/assets/&#34;&gt;logo and other assets&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Interested in donating? Checkout our &lt;a href=&#34;/donate/&#34;&gt;Donate page&lt;/a&gt; and our &lt;a href=&#34;/wishlist/&#34;&gt;Wishlist&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
     
     <item>
-      <title>Donate</title>
-      <link>http://www.brainsilo.org/donate</link>
+      <title>Frequently Asked Questions</title>
+      <link>http://www.brainsilo.org/about/faq</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
       
-      <guid>http://www.brainsilo.org/donate</guid>
+      <guid>http://www.brainsilo.org/about/faq</guid>
       <description>
 
-&lt;h2 id=&#34;toc_0&#34;&gt;Equipment&lt;/h2&gt;
+&lt;h3 id=&#34;toc_0&#34;&gt;Where is BrainSilo?&lt;/h3&gt;
 
-&lt;p&gt;&lt;strong&gt;Got something awesome you want us to have?&lt;/strong&gt; If you have equipment that you&amp;rsquo;d like to donate, please have a look at our &lt;a href=&#34;/wishlist/&#34;&gt;Wishlist page&lt;/a&gt; to see what we&amp;rsquo;re in need of and how equipment donations work at BrainSilo.&lt;/p&gt;
+&lt;p&gt;We&amp;rsquo;re located near downtown Portland, Oregon. &lt;a href=&#34;/about/&#34;&gt;Learn more&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;toc_1&#34;&gt;Money&lt;/h2&gt;
+&lt;h3 id=&#34;toc_1&#34;&gt;What tools and equipment does BrainSilo have?&lt;/h3&gt;
 
-&lt;p&gt;&lt;strong&gt;Money burning a hole through your pocket?&lt;/strong&gt; BrainSilo is always happy to receive cash donations!  There is a donation box in the space, next to the main door.  Alternatively, talk to one of our organizers for handling larger donations.&lt;/p&gt;
+&lt;p&gt;Head over to our &lt;a href=&#34;/about/equipment/&#34;&gt;tools and equipment&lt;/a&gt; page to learn about what we have to offer.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Equipment and Tools at BrainSilo</title>
+      <link>http://www.brainsilo.org/about/equipment</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
+      
+      <guid>http://www.brainsilo.org/about/equipment</guid>
+      <description>
 
-&lt;!--
-**[Please go here to donate to BrainSilo!](https://???/donate)**
---&gt;
+&lt;p&gt;BrainSilo has a growing collection of &lt;strong&gt;awesome tools and equipment&lt;/strong&gt; at &lt;a href=&#34;/about/space/&#34;&gt;our space&lt;/a&gt;. Below is an incomplete list:&lt;/p&gt;
 
-&lt;p&gt;Your cash donation will go to helping us pay for rent and utilities, purchase equipment and supplies and put on events, meetups and classes!&lt;/p&gt;
+&lt;h2 id=&#34;toc_0&#34;&gt;Fabrication&lt;/h2&gt;
 
-&lt;h2 id=&#34;toc_2&#34;&gt;Volunteering&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;2x Delta 3D printers&lt;/li&gt;
+&lt;li&gt;1x Makerbot Replicator 3D printer&lt;/li&gt;
+&lt;li&gt;2x Benchtop multi-axis CNC&lt;/li&gt;
+&lt;li&gt;Free-standing multi-axis CNC&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;&lt;strong&gt;Don&amp;rsquo;t have things or money to donate but want to help?&lt;/strong&gt; We&amp;rsquo;re always looking for people to help us clean and move things, produce events and do odd jobs. If that&amp;rsquo;s interesting to you, please let us know your availability on our &lt;a href=&#34;https://groups.google.com/forum/#!forum/pdxhackerspace&#34;&gt;Google Group&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;toc_1&#34;&gt;Electronics&lt;/h2&gt;
 
-&lt;p&gt;&lt;strong&gt;Have a particular skill?&lt;/strong&gt; Then you might want to consider &lt;a href=&#34;/about/teaching/&#34;&gt;teaching at BrainSilo&lt;/a&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Digital oscilloscope&lt;/li&gt;
+&lt;li&gt;Adjustable power supplies&lt;/li&gt;
+&lt;li&gt;Soldering stations&lt;/li&gt;
+&lt;li&gt;Breadboards&lt;/li&gt;
+&lt;li&gt;Heat shrink gun&lt;/li&gt;
+&lt;li&gt;Various parts (LEDs, resistors, stepper and servo motors and more)&lt;/li&gt;
+&lt;li&gt;Test equipment&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;h2 id=&#34;toc_3&#34;&gt;About Your Donation&lt;/h2&gt;
+&lt;h2 id=&#34;toc_2&#34;&gt;Other Things&lt;/h2&gt;
 
-&lt;h3 id=&#34;toc_4&#34;&gt;Tax Receipt&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Lots of hand tools&lt;/li&gt;
+&lt;li&gt;Drawing and painting supplies&lt;/li&gt;
+&lt;li&gt;Work benches&lt;/li&gt;
+&lt;li&gt;Whiteboards&lt;/li&gt;
+&lt;li&gt;Kitchenette&lt;/li&gt;
+&lt;li&gt;Heating/AC&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;Since we&amp;rsquo;re a fiscally-sponsored project of the School Factory, Inc. a 501&amp;copy;3 tax-exempt corporation, we can offer tax receipts for valid donations we accept and that are valued. Tax receipts are for relatively large donations. If you donate some post-its&amp;reg;, we&amp;rsquo;re not going to give you a tax receipt.&lt;/p&gt;
+&lt;h2 id=&#34;toc_3&#34;&gt;Have a Donation?&lt;/h2&gt;
 
-&lt;p&gt;&lt;em&gt;If you want a tax receipt for your donation, please let us know otherwise no receipt will be issued!&lt;/em&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;toc_5&#34;&gt;Reimbursements&lt;/h3&gt;
-
-&lt;p&gt;BrainSilo does not offer any reimbursements for donations. If you&amp;rsquo;d like to donate something to BrainSilo and want something in return, the only thing we can offer is a tax receipt (and our thanks!).&lt;/p&gt;
+&lt;p&gt;Head over to our &lt;a href=&#34;/donate/&#34;&gt;Donate page&lt;/a&gt; to learn how donations work at BrainSilo.&lt;/p&gt;
 </description>
     </item>
     
@@ -351,29 +279,101 @@
     </item>
     
     <item>
-      <title>About BrainSilo</title>
-      <link>http://www.brainsilo.org/about</link>
+      <title>BrainSilo&#39;s Space</title>
+      <link>http://www.brainsilo.org/about/space</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
       
-      <guid>http://www.brainsilo.org/about</guid>
+      <guid>http://www.brainsilo.org/about/space</guid>
       <description>
 
-&lt;p&gt;BrainSilo is a hackspace and maker space in Portland, Oregon. We&amp;rsquo;re a diverse group of artists, makers, hackers and inventors who share a common desire to create, share and learn from each other.&lt;/p&gt;
+&lt;figure class=&#34;block-image text-center&#34;&gt;
+  &lt;img src=&#34;#ZgotmplZ&#34; class=&#34;img-responsive img-thumbnail&#34;&gt;
+  
+    &lt;figcaption class=&#34;text-muted&#34;&gt;BrainSilo Aerial View&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
 
-&lt;h2 id=&#34;toc_0&#34;&gt;Learn More&lt;/h2&gt;
+&lt;h2 id=&#34;toc_0&#34;&gt;Current Space&lt;/h2&gt;
 
-&lt;ul&gt;
-&lt;li&gt;Read our &lt;a href=&#34;/about/faq/&#34;&gt;FAQ&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;Check out our current &lt;a href=&#34;/about/status/&#34;&gt;organization status&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;See what &lt;a href=&#34;/about/equipment/&#34;&gt;tools and equipment&lt;/a&gt; we offer.&lt;/li&gt;
-&lt;li&gt;Read our &lt;a href=&#34;/about/mission/&#34;&gt;mission and vision statements&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;Learn about &lt;a href=&#34;/about/history/&#34;&gt;BrainSilo&amp;rsquo;s history&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;See who is on our &lt;a href=&#34;/about/leadership/&#34;&gt;board and leadership committees&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;Learn about our &lt;a href=&#34;/about/space/&#34;&gt;current space&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/about/teaching/&#34;&gt;Teach at BrainSilo&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;Download our &lt;a href=&#34;/about/assets/&#34;&gt;logo and other assets&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;Interested in donating? Checkout our &lt;a href=&#34;/donate/&#34;&gt;Donate page&lt;/a&gt; and our &lt;a href=&#34;/wishlist/&#34;&gt;Wishlist&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;BrainSilo is currently renting a small industrial space near downtown.&lt;/p&gt;
+
+&lt;p&gt;This space is great for anyone doing smaller projects - arts and crafts, jewelry, software or hardware design or anyone working on a computer or who doesn&amp;rsquo;t require a lot of space to work.&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s 850sq. ft., in an L shape, with about 16&amp;rsquo; ceilings, and has a dock-loading height garage door.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Curious about what equipment and tools we have?&lt;/strong&gt; Check out our &lt;a href=&#34;/about/equipment/&#34;&gt;list of equipment&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;If this sounds interesting to you, learn more about &lt;a href=&#34;/membership/&#34;&gt;membership&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;Future Space&lt;/h2&gt;
+
+&lt;p&gt;We&amp;rsquo;re in the process of an effort to rent a larger fabrication facility that will serve the needs of members that want to do metalwork and other large/messy forms of art.&lt;/p&gt;
+
+&lt;p&gt;If you&amp;rsquo;re interested in getting involved in our planning process, check out our &lt;a href=&#34;https://groups.google.com/forum/#!forum/pdxhackerspace&#34;&gt;Google Group&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Donate</title>
+      <link>http://www.brainsilo.org/donate</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
+      
+      <guid>http://www.brainsilo.org/donate</guid>
+      <description>
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Equipment&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Got something awesome you want us to have?&lt;/strong&gt; If you have equipment that you&amp;rsquo;d like to donate, please have a look at our &lt;a href=&#34;/wishlist/&#34;&gt;Wishlist page&lt;/a&gt; to see what we&amp;rsquo;re in need of and how equipment donations work at BrainSilo.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;Money&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Money burning a hole through your pocket?&lt;/strong&gt; BrainSilo is always happy to receive cash donations!  There is a donation box in the space, next to the main door.  Alternatively, talk to one of our organizers for handling larger donations.&lt;/p&gt;
+
+&lt;!--
+**[Please go here to donate to BrainSilo!](https://???/donate)**
+--&gt;
+
+&lt;p&gt;Your cash donation will go to helping us pay for rent and utilities, purchase equipment and supplies and put on events, meetups and classes!&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_2&#34;&gt;Volunteering&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Don&amp;rsquo;t have things or money to donate but want to help?&lt;/strong&gt; We&amp;rsquo;re always looking for people to help us clean and move things, produce events and do odd jobs. If that&amp;rsquo;s interesting to you, please let us know your availability on our &lt;a href=&#34;https://groups.google.com/forum/#!forum/pdxhackerspace&#34;&gt;Google Group&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Have a particular skill?&lt;/strong&gt; Then you might want to consider &lt;a href=&#34;/about/teaching/&#34;&gt;teaching at BrainSilo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_3&#34;&gt;About Your Donation&lt;/h2&gt;
+
+&lt;h3 id=&#34;toc_4&#34;&gt;Tax Receipt&lt;/h3&gt;
+
+&lt;p&gt;Since we&amp;rsquo;re a fiscally-sponsored project of the School Factory, Inc. a 501&amp;copy;3 tax-exempt corporation, we can offer tax receipts for valid donations we accept and that are valued. Tax receipts are for relatively large donations. If you donate some post-its&amp;reg;, we&amp;rsquo;re not going to give you a tax receipt.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;If you want a tax receipt for your donation, please let us know otherwise no receipt will be issued!&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;toc_5&#34;&gt;Reimbursements&lt;/h3&gt;
+
+&lt;p&gt;BrainSilo does not offer any reimbursements for donations. If you&amp;rsquo;d like to donate something to BrainSilo and want something in return, the only thing we can offer is a tax receipt (and our thanks!).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Calendar</title>
+      <link>http://www.brainsilo.org/calendar</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
+      
+      <guid>http://www.brainsilo.org/calendar</guid>
+      <description>
+
+&lt;p&gt;Check out our &lt;a href=&#34;http://www.meetup.com/BrainSilo/events/calendar/&#34;&gt;Meetup Calendar&lt;/a&gt; to see all our upcoming classes, meetups and events!&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Idea for an Event?&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Have an event or meetup you want to host?&lt;/strong&gt; Propose it on our &lt;a href=&#34;http://www.meetup.com/BrainSilo/&#34;&gt;Meetup.com page&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Want to teach at BrainSilo?&lt;/strong&gt; Check out our &lt;a href=&#34;/about/teaching/&#34;&gt;Teachers page&lt;/a&gt; to learn more.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;Meetup.com&lt;/h2&gt;
+
+&lt;p&gt;We also recommend checking out our &lt;a href=&#34;http://www.meetup.com/BrainSilo/&#34;&gt;Meetup.com&lt;/a&gt; page if you want to get notified about new meetups and events.&lt;/p&gt;
 </description>
     </item>
     
