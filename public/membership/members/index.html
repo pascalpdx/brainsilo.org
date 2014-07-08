@@ -3,7 +3,7 @@
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
-    <title>Current Status - BrainSilo Hackerspace</title>
+    <title>Current Members - BrainSilo Hackerspace</title>
     
     <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css" rel="stylesheet">
     <link href="//maxcdn.bootstrapcdn.com/bootswatch/3.2.0/cyborg/bootstrap.min.css" rel="stylesheet">
@@ -72,30 +72,26 @@
   <div class="main-content container">
     <ol class="breadcrumb">
       <li><a href="/">Home</a></li>
-      <li><a href="/about/">About</a></li>
-      <li>Current Status</li>
+      <li><a>Membership</a></li>
+      <li>Current Members</li>
     </ol>
-    <h1 class="page-header">Current Status</h1>
-    
+    <h1 class="page-header">Current Members</h1>
+    <script type="text/javascript">
+    $(function($) {
+      var json = "http://api.meetup.com/2/profiles?group_id=8102912&order=visited&offset=0&format=json&page=200&fields=membership_dues&sig_id=70219012&sig=0f85d99b4ec83af7df850e456290db7ebe9c5b62&callback=?";
+      var members = $.getJSON(json,function(x) {
+        console.log(x.results);
+        var paid_members = _.filter(x.results, function(m) {return m.membership_dues.period_status == "paid" || m.membership_dues.exempt == true; });
+        _.forEach(paid_members, function(m) {
+          var s = "<div>" + 
+          var o = $("<div>").append(m.name);
+          $("div.main-content.container").append(o);
+        });
+      });
+    });
+</script>
 
-<h2 id="toc_0">Membership</h2>
-
-<div class="alert alert-success">BrainSilo is currently <strong>open for membership</strong></div>
-
-<p>Learn more about our <a href="/about/space/">current space</a></p>
-
-<h2 id="toc_1">Fiscal Sponsorship</h2>
-
-<p>BrainSilo is a fiscally-sponsored project of the <a href="http://schoolfactory.org/">School Factory, Inc. a 501&copy;3 tax-exempt corporation</a>, which is the organization that allows us to accept charitable donations.</p>
-
-<h2 id="toc_2">Learn More&hellip;</h2>
-
-<ul>
-<li>Learn more about <a href="/membership/">membership</a></li>
-<li>Learn more about <a href="/about/space/">our space</a></li>
-</ul>
-
-  </div>
+ </div>
 
     <footer class="page-footer">
       <div class="container">

@@ -9,8 +9,7 @@
     <link href="//maxcdn.bootstrapcdn.com/bootswatch/3.2.0/cyborg/bootstrap.min.css" rel="stylesheet">
     <link href="/static/css/styles.css" rel="stylesheet">
     
-    <script type="text/javascript" src="//use.typekit.net/sxc8efr.js"></script>
-    <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+    <script type='text/javascript'>window.q=[];window.$=function(f){q.push(f)}</script>
   </head>
   <body lang="en">
 
@@ -33,6 +32,7 @@
           <ul class="dropdown-menu">
             <li><a href="/membership/">Join BrainSilo</a></li>
             <li><a href="/membership/agreement/">Membership Agreement</a></li>
+            <li><a href="/membership/members/">Current Members</a></li>
             <li><a href="https://secure.meetup.com/BrainSilo/pay_dues/">Pay Dues</a></li>
           </ul>
         </li>
@@ -70,6 +70,11 @@
 
 
   <div class="main-content container">
+    <ol class="breadcrumb">
+      <li><a href="/">Home</a></li>
+      <li><a>Membership</a></li>
+      <li>Become a Member</li>
+    </ol>
     <h1 class="page-header">Become a Member</h1>
     
 
@@ -91,7 +96,7 @@
 
 <ul>
 <li>Multiple work benches to work on projects</li>
-<li><em>24/7 access, using an electroinc keypad</em></li>
+<li><em><sup>24</sup>&frasl;<sub>7</sub> access, using an electroinc keypad</em></li>
 <li>Use our wifi and our little kitchenette and our heating and AC</li>
 <li><em>Member discount on classes</em></li>
 <li>Access to our growing list of tools and supplies</li>
@@ -145,7 +150,7 @@
 
 <p>We are also open to the idea of formal reciprocal membership with other hackerspaces.</p>
 
-  </div>
+ </div>
 
     <footer class="page-footer">
       <div class="container">
@@ -194,8 +199,18 @@
         </div>
       </div>
     </footer>
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+    <script type="text/javascript" src="//use.typekit.net/sxc8efr.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/underscore.js/1.6.0/underscore-min.js"></script>
 <script type="text/javascript" src="//netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
+<script type="text/javascript">
+jQuery(document).ready(function($) {
+  $.each(q,function(index,f){
+    $(f)
+  });
+});
+</script>
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
