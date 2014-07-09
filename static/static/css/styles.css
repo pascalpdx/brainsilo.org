@@ -36,6 +36,7 @@ h3 {
 }
 
 
+
 /*========================================================
   Main Content
 ========================================================*/
@@ -55,8 +56,9 @@ h3 {
   background-size: cover;
   background-position: 50% 25%;
   margin-top: -1.2em;
-  padding-bottom: 4em;
-  padding-top: 4em;
+/*  padding-bottom: 4em;
+  padding-top: 4em; */
+  height: 22em;
 }
   .hompage-jumbotron h1,
   .hompage-jumbotron .lead {
@@ -68,6 +70,12 @@ h3 {
     margin-bottom: 2em;
   }
 
+.rounded{
+  height: 100%;
+  background-color: #000000;
+  opacity: 0.8;
+  /*border-radius: 25px;*/
+}
 
 /*========================================================
   Navigation
