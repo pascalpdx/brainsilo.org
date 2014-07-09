@@ -3,7 +3,7 @@
   <channel>
       <title>Memberships on BrainSilo - Portland&#39;s Hackerspace </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://www.brainsilo.org/membership/index.xml</link>
+    <link>http://localhost:1313/membership/index.xml</link>
     
     
     
@@ -11,20 +11,22 @@
     
     <item>
       <title>Current Members</title>
-      <link>http://www.brainsilo.org/membership/members</link>
+      <link>http://localhost:1313/membership/members</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
       
-      <guid>http://www.brainsilo.org/membership/members</guid>
+      <guid>http://localhost:1313/membership/members</guid>
       <description>&lt;script type=&#34;text/javascript&#34;&gt;
     $(function($) {
-      var json = &#34;http://api.meetup.com/2/profiles?group_id=8102912&amp;order=visited&amp;offset=0&amp;format=json&amp;page=200&amp;fields=membership_dues&amp;sig_id=70219012&amp;sig=0f85d99b4ec83af7df850e456290db7ebe9c5b62&amp;callback=?&#34;;
+      var json = &#34;http://api.meetup.com/2/profiles?order=name&amp;group_urlname=brainsilo&amp;offset=0&amp;photo-host=public&amp;format=json&amp;page=1000&amp;fields=membership_dues&amp;sig_id=70219012&amp;sig=95901ae424495d4bf3440feeefc9ece471fae86d&amp;callback=?&#34;;
       var members = $.getJSON(json,function(x) {
         console.log(x.results);
         var paid_members = _.filter(x.results, function(m) {return m.membership_dues.period_status == &#34;paid&#34; || m.membership_dues.exempt == true; });
+        var p = $(&#39;&lt;div id=&#34;paid_members&#34; class=&#34;row&#34;&gt;&#39;);
+        $(&#34;div.main-content.container&#34;).append(p);
         _.forEach(paid_members, function(m) {
-          var s = &#34;&lt;div&gt;&#34; + 
-          var o = $(&#34;&lt;div&gt;&#34;).append(m.name);
-          $(&#34;div.main-content.container&#34;).append(o);
+          var o = $(&#39;&lt;div class=&#34;col-md-3 col-sm-4 col-xs-6&#34;&gt;&#39;);
+          o.append(&#39;&lt;a href=&#34;&#39; + m.profile_url + &#39;&#34; target=&#34;_blank&#34; class=&#34;thumbnail&#34;&gt;&lt;div class=&#34;image&#34;&gt;&lt;img src=&#34;&#39; + m.photo_url + &#39;&#34; class=&#34;img img-responsive full-width&#34;&gt;&lt;/div&gt;&lt;div class=&#34;caption&#34;&gt;&#39; + m.name + &#39;&lt;/div&gt;&lt;/a&gt;&#39;);
+          p.append(o)
         });
       });
     });
@@ -34,10 +36,10 @@
     
     <item>
       <title>Become a Member</title>
-      <link>http://www.brainsilo.org/membership</link>
+      <link>http://localhost:1313/membership</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
       
-      <guid>http://www.brainsilo.org/membership</guid>
+      <guid>http://localhost:1313/membership</guid>
       <description>
 
 &lt;p&gt;BrainSilo is open for membership!&lt;/p&gt;
@@ -116,10 +118,10 @@
     
     <item>
       <title>Membership Agreement &amp; Liability Release</title>
-      <link>http://www.brainsilo.org/membership/agreement</link>
+      <link>http://localhost:1313/membership/agreement</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
       
-      <guid>http://www.brainsilo.org/membership/agreement</guid>
+      <guid>http://localhost:1313/membership/agreement</guid>
       <description>
 
 &lt;p&gt;If you&amp;rsquo;re interested in becoming a member, please read our &lt;strong&gt;Membership Agreement&lt;/strong&gt; and &lt;strong&gt;Liability Release&lt;/strong&gt; all the way through and make sure that you can abide by them as a member.&lt;/p&gt;

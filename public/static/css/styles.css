@@ -126,3 +126,21 @@ h3 {
 .block-image {
   margin: 1.25em 0;
 }
+
+.caption {
+    position: absolute;
+    bottom: 30px;
+    left: 15px;
+    right: 15px;
+    text-align:center;
+    background-color: rgba(10, 10, 10, 0.8);
+}
+
+.image{
+  position:relative;
+  overflow:hidden;
+  padding-bottom:100%;
+}
+.image img{
+    position:absolute;
+}
