@@ -3,18 +3,41 @@
   <channel>
       <title>Memberships on BrainSilo - Portland&#39;s Hackerspace </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://localhost:1313/membership/index.xml</link>
+    <link>http://www.brainsilo.org/membership/index.xml</link>
     
     
     
     <updated>Tue, 01 Jan 2008 00:00:00 UTC</updated>
     
     <item>
-      <title>Become a Member</title>
-      <link>http://localhost:1313/membership</link>
+      <title>Current Members</title>
+      <link>http://www.brainsilo.org/membership/members</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
       
-      <guid>http://localhost:1313/membership</guid>
+      <guid>http://www.brainsilo.org/membership/members</guid>
+      <description>&lt;script type=&#34;text/javascript&#34;&gt;
+    $(function($) {
+      var json = &#34;http://api.meetup.com/2/profiles?group_id=8102912&amp;order=visited&amp;offset=0&amp;format=json&amp;page=200&amp;fields=membership_dues&amp;sig_id=70219012&amp;sig=0f85d99b4ec83af7df850e456290db7ebe9c5b62&amp;callback=?&#34;;
+      var members = $.getJSON(json,function(x) {
+        console.log(x.results);
+        var paid_members = _.filter(x.results, function(m) {return m.membership_dues.period_status == &#34;paid&#34; || m.membership_dues.exempt == true; });
+        _.forEach(paid_members, function(m) {
+          var s = &#34;&lt;div&gt;&#34; + 
+          var o = $(&#34;&lt;div&gt;&#34;).append(m.name);
+          $(&#34;div.main-content.container&#34;).append(o);
+        });
+      });
+    });
+&lt;/script&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Become a Member</title>
+      <link>http://www.brainsilo.org/membership</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
+      
+      <guid>http://www.brainsilo.org/membership</guid>
       <description>
 
 &lt;p&gt;BrainSilo is open for membership!&lt;/p&gt;
@@ -35,7 +58,7 @@
 
 &lt;ul&gt;
 &lt;li&gt;Multiple work benches to work on projects&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;24/7 access, using an electroinc keypad&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&lt;sup&gt;24&lt;/sup&gt;&amp;frasl;&lt;sub&gt;7&lt;/sub&gt; access, using an electroinc keypad&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;Use our wifi and our little kitchenette and our heating and AC&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Member discount on classes&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;Access to our growing list of tools and supplies&lt;/li&gt;
@@ -92,41 +115,18 @@
     </item>
     
     <item>
-      <title>Current Members</title>
-      <link>http://localhost:1313/membership/members</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
-      
-      <guid>http://localhost:1313/membership/members</guid>
-      <description>&lt;p&gt;
-    $(function($) {
-      var json = &#34;http://api.meetup.com/2/profiles?group_id=8102912&amp;order=visited&amp;offset=0&amp;format=json&amp;page=200&amp;fields=membership_dues&amp;sig_id=70219012&amp;sig=0f85d99b4ec83af7df850e456290db7ebe9c5b62&amp;callback=?&#34;;
-      var members = $.getJSON(json,function(x) {
-        console.log(x.results);
-        var paid_members = _.filter(x.results, function(m) {return m.membership_dues.period_status == &#34;paid&#34; || m.membership_dues.exempt == true; });
-        _.forEach(paid_members, function(m) {
-          var s = &#34;&lt;div&gt;&#34; + 
-          var o = $(&#34;&lt;div&gt;&#34;).append(m.name);
-          $(&#34;div.main-content.container&#34;).append(o);
-        });
-      });
-    });
-&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Membership Agreement &amp; Liability Release</title>
-      <link>http://localhost:1313/membership/agreement</link>
+      <link>http://www.brainsilo.org/membership/agreement</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
       
-      <guid>http://localhost:1313/membership/agreement</guid>
+      <guid>http://www.brainsilo.org/membership/agreement</guid>
       <description>
 
 &lt;p&gt;If you&amp;rsquo;re interested in becoming a member, please read our &lt;strong&gt;Membership Agreement&lt;/strong&gt; and &lt;strong&gt;Liability Release&lt;/strong&gt; all the way through and make sure that you can abide by them as a member.&lt;/p&gt;
 
 &lt;h2 id=&#34;toc_0&#34;&gt;Membership Agreement&lt;/h2&gt;
 
-&lt;p&gt;&lt;strong&gt;Shop Hours:&lt;/strong&gt; BrainSilo will be open to members 24/7, except for occasional special events.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Shop Hours:&lt;/strong&gt; BrainSilo will be open to members &lt;sup&gt;24&lt;/sup&gt;&amp;frasl;&lt;sub&gt;7&lt;/sub&gt;, except for occasional special events.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Payment&lt;/strong&gt;: If you are not using BrainSilo&amp;rsquo;s online payment service (via meetup.com), then monthly fees are due on the 1st of the month, and late after the 5th.  Memberships can be put on hiatus and revived at a later month but this must be communicated in writing with &lt;a href=&#34;/about/leadership&#34;&gt;BrainSilo leadership&lt;/a&gt;.&lt;/p&gt;
 

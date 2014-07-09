@@ -3,18 +3,171 @@
   <channel>
       <title>Abouts on BrainSilo - Portland&#39;s Hackerspace </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://localhost:1313/about/index.xml</link>
+    <link>http://www.brainsilo.org/about/index.xml</link>
     
     
     
     <updated>Tue, 01 Jan 2008 00:00:00 UTC</updated>
     
     <item>
-      <title>Branding Assets</title>
-      <link>http://localhost:1313/about/assets</link>
+      <title>Mission and Vision</title>
+      <link>http://www.brainsilo.org/about/mission</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
       
-      <guid>http://localhost:1313/about/assets</guid>
+      <guid>http://www.brainsilo.org/about/mission</guid>
+      <description>
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Our Mission&lt;/h2&gt;
+
+&lt;p&gt;Our mission is to sustain an environment where people can educate themselves and others in order to create and expand junctions of technology, art, science, and culture.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Frequently Asked Questions</title>
+      <link>http://www.brainsilo.org/about/faq</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
+      
+      <guid>http://www.brainsilo.org/about/faq</guid>
+      <description>
+
+&lt;h3 id=&#34;toc_0&#34;&gt;Where is BrainSilo?&lt;/h3&gt;
+
+&lt;p&gt;We&amp;rsquo;re located near downtown Portland, Oregon. &lt;a href=&#34;/about/&#34;&gt;Learn more&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;toc_1&#34;&gt;What tools and equipment does BrainSilo have?&lt;/h3&gt;
+
+&lt;p&gt;Head over to our &lt;a href=&#34;/about/equipment/&#34;&gt;tools and equipment&lt;/a&gt; page to learn about what we have to offer.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Current Status</title>
+      <link>http://www.brainsilo.org/about/status</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
+      
+      <guid>http://www.brainsilo.org/about/status</guid>
+      <description>
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Membership&lt;/h2&gt;
+
+&lt;div class=&#34;alert alert-success&#34;&gt;BrainSilo is currently &lt;strong&gt;open for membership&lt;/strong&gt;&lt;/div&gt;
+
+&lt;p&gt;Learn more about our &lt;a href=&#34;/about/space/&#34;&gt;current space&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;Fiscal Sponsorship&lt;/h2&gt;
+
+&lt;p&gt;BrainSilo is a fiscally-sponsored project of the &lt;a href=&#34;http://schoolfactory.org/&#34;&gt;School Factory, Inc. a 501&amp;copy;3 tax-exempt corporation&lt;/a&gt;, which is the organization that allows us to accept charitable donations.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_2&#34;&gt;Learn More&amp;hellip;&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Learn more about &lt;a href=&#34;/membership/&#34;&gt;membership&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Learn more about &lt;a href=&#34;/about/space/&#34;&gt;our space&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About BrainSilo</title>
+      <link>http://www.brainsilo.org/about</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
+      
+      <guid>http://www.brainsilo.org/about</guid>
+      <description>
+
+&lt;p&gt;BrainSilo is a hackspace and maker space in Portland, Oregon. We&amp;rsquo;re a diverse group of artists, makers, hackers and inventors who share a common desire to create, share and learn from each other.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Learn More&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Read our &lt;a href=&#34;/about/faq/&#34;&gt;FAQ&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Check out our current &lt;a href=&#34;/about/status/&#34;&gt;organization status&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;See what &lt;a href=&#34;/about/equipment/&#34;&gt;tools and equipment&lt;/a&gt; we offer.&lt;/li&gt;
+&lt;li&gt;Read our &lt;a href=&#34;/about/mission/&#34;&gt;mission and vision statements&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Learn about &lt;a href=&#34;/about/history/&#34;&gt;BrainSilo&amp;rsquo;s history&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;See who is on our &lt;a href=&#34;/about/leadership/&#34;&gt;board and leadership committees&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Learn about our &lt;a href=&#34;/about/space/&#34;&gt;current space&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/about/teaching/&#34;&gt;Teach at BrainSilo&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Download our &lt;a href=&#34;/about/assets/&#34;&gt;logo and other assets&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Interested in donating? Checkout our &lt;a href=&#34;/donate/&#34;&gt;Donate page&lt;/a&gt; and our &lt;a href=&#34;/wishlist/&#34;&gt;Wishlist&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BrainSilo&#39;s Board and Leadership</title>
+      <link>http://www.brainsilo.org/about/leadership</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
+      
+      <guid>http://www.brainsilo.org/about/leadership</guid>
+      <description>
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Our Board&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Dean Pierce&lt;/strong&gt; - Executive Director&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Nick &amp;ldquo;Loki&amp;rdquo; Jacobsen&lt;/strong&gt; - Founder&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Seth Woolley&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;Board Bios&lt;/h2&gt;
+
+&lt;h3 id=&#34;toc_2&#34;&gt;Dean Pierce&lt;/h3&gt;
+
+&lt;h3 id=&#34;toc_3&#34;&gt;Nick &amp;ldquo;Loki&amp;rdquo; Jacobsen&lt;/h3&gt;
+
+&lt;h3 id=&#34;toc_4&#34;&gt;Seth Woolley&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Teach at BrainSilo</title>
+      <link>http://www.brainsilo.org/about/teaching</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
+      
+      <guid>http://www.brainsilo.org/about/teaching</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;Interested in teaching at BrainSilo?&lt;/strong&gt; We&amp;rsquo;re always looking for talented educators to teach classes at BrainSilo.&lt;/p&gt;
+
+&lt;p&gt;Here are some things to know about being a teacher BrainSilo:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;You don&amp;rsquo;t need to have a degree in your area of knowledge (but that&amp;rsquo;s a plus!).&lt;/li&gt;
+&lt;li&gt;We take a percentage of class proceeds for &lt;strong&gt;&lt;em&gt;paid&lt;/em&gt;&lt;/strong&gt; classes. Usually it is &lt;em&gt;50% to you and 50% to BrainSilo&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;There is no usage fee for &lt;strong&gt;&lt;em&gt;free&lt;/em&gt;&lt;/strong&gt; classes.&lt;/li&gt;
+&lt;li&gt;You &lt;em&gt;don&amp;rsquo;t need to be a member to teach a class at BrainSilo&lt;/em&gt;, although a member is required to sponsor your class (opening/closing the space, etc).&lt;/li&gt;
+&lt;li&gt;Members must recieve a discount on classes.&lt;/li&gt;
+&lt;li&gt;Classes are &lt;em&gt;open to the public&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;We appreciate references so we can vet you as a teacher.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If you&amp;rsquo;re interested in teaching a class, &lt;em&gt;the first step is to post your idea in our &lt;a href=&#34;https://groups.google.com/forum/#!forum/pdxhackerspace&#34;&gt;Google Group&lt;/a&gt;&lt;/em&gt; to see if members would be interested.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Let Us Know&lt;/h2&gt;
+
+&lt;p&gt;After you&amp;rsquo;ve read and completed the above, &lt;a href=&#34;/contact/&#34;&gt;contact us&lt;/a&gt; with the following information:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Proposed date(s)/time(s)&lt;/strong&gt; for your class (give us alternates in case a date isn&amp;rsquo;t available)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Class fee&lt;/strong&gt; per student (if any)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Materials fee&lt;/strong&gt; (if any)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Prerequisites&lt;/strong&gt; for students (if any)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Class description&lt;/strong&gt; (2-3 paragraphs about the class, what will be taught and who the class is relevant to)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Teacher bio&lt;/strong&gt; (why should people trust you as a teacher?)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Age restrictions&lt;/strong&gt; for students (e.g. if it&amp;rsquo;s an adults only class, let us know!)&lt;/li&gt;
+&lt;li&gt;Any &lt;strong&gt;photos&lt;/strong&gt; of what students will learn (helps to sell your class)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Branding Assets</title>
+      <link>http://www.brainsilo.org/about/assets</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
+      
+      <guid>http://www.brainsilo.org/about/assets</guid>
       <description>
 
 &lt;h2 id=&#34;toc_0&#34;&gt;Horizontal Logo&lt;/h2&gt;
@@ -39,11 +192,35 @@
     </item>
     
     <item>
-      <title>Equipment and Tools at BrainSilo</title>
-      <link>http://localhost:1313/about/equipment</link>
+      <title>BrainSilo&#39;s History</title>
+      <link>http://www.brainsilo.org/about/history</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
       
-      <guid>http://localhost:1313/about/equipment</guid>
+      <guid>http://www.brainsilo.org/about/history</guid>
+      <description>
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Founding &amp;amp; Early Days&lt;/h2&gt;
+
+&lt;p&gt;The idea of a hackerspace in Portland was a recurring theme at BarCamp and other unconferences and meetups since at least 2008, but very little progress was made until space was rented in 2010.  On January 1st, 2010 &lt;a href=&#34;/about/leadership/&#34;&gt;Loki&lt;/a&gt; signed a lease on space he and Cat had found in an industrial area of Portland.&lt;/p&gt;
+
+&lt;p&gt;Originally just called &amp;ldquo;PDX Hackerspace&amp;rdquo;, it took a few months for an organization to be created - BrainSilo.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;Today&lt;/h2&gt;
+
+&lt;p&gt;We&amp;rsquo;re still operating in our original, 850 sq.ft. space, and we&amp;rsquo;re open to members &lt;sup&gt;24&lt;/sup&gt;&amp;frasl;&lt;sub&gt;7&lt;/sub&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_2&#34;&gt;Tomorrow&lt;/h2&gt;
+
+&lt;p&gt;Our story is continually evolving and if we remember, we&amp;rsquo;ll keep this page updated as we go!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Equipment and Tools at BrainSilo</title>
+      <link>http://www.brainsilo.org/about/equipment</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
+      
+      <guid>http://www.brainsilo.org/about/equipment</guid>
       <description>
 
 &lt;p&gt;BrainSilo has a growing collection of &lt;strong&gt;awesome tools and equipment&lt;/strong&gt; at &lt;a href=&#34;/about/space/&#34;&gt;our space&lt;/a&gt;. Below is an incomplete list:&lt;/p&gt;
@@ -87,120 +264,11 @@
     </item>
     
     <item>
-      <title>Frequently Asked Questions</title>
-      <link>http://localhost:1313/about/faq</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
-      
-      <guid>http://localhost:1313/about/faq</guid>
-      <description>
-
-&lt;h3 id=&#34;toc_0&#34;&gt;Where is BrainSilo?&lt;/h3&gt;
-
-&lt;p&gt;We&amp;rsquo;re located near downtown Portland, Oregon. &lt;a href=&#34;/about/&#34;&gt;Learn more&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;toc_1&#34;&gt;What tools and equipment does BrainSilo have?&lt;/h3&gt;
-
-&lt;p&gt;Head over to our &lt;a href=&#34;/about/equipment/&#34;&gt;tools and equipment&lt;/a&gt; page to learn about what we have to offer.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>BrainSilo&#39;s History</title>
-      <link>http://localhost:1313/about/history</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
-      
-      <guid>http://localhost:1313/about/history</guid>
-      <description>
-
-&lt;h2 id=&#34;toc_0&#34;&gt;Founding &amp;amp; Early Days&lt;/h2&gt;
-
-&lt;p&gt;The idea of a hackerspace in Portland was a recurring theme at BarCamp and other unconferences and meetups since at least 2008, but very little progress was made until space was rented in 2010.  On January 1st, 2010 &lt;a href=&#34;/about/leadership/&#34;&gt;Loki&lt;/a&gt; signed a lease on space he and Cat had found in an industrial area of Portland.&lt;/p&gt;
-
-&lt;p&gt;Originally just called &amp;ldquo;PDX Hackerspace&amp;rdquo;, it took a few months for an organization to be created - BrainSilo.&lt;/p&gt;
-
-&lt;h2 id=&#34;toc_1&#34;&gt;Today&lt;/h2&gt;
-
-&lt;p&gt;We&amp;rsquo;re still operating in our original, 850 sq.ft. space, and we&amp;rsquo;re open to members 24/7.&lt;/p&gt;
-
-&lt;h2 id=&#34;toc_2&#34;&gt;Tomorrow&lt;/h2&gt;
-
-&lt;p&gt;Our story is continually evolving and if we remember, we&amp;rsquo;ll keep this page updated as we go!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Mission and Vision</title>
-      <link>http://localhost:1313/about/mission</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
-      
-      <guid>http://localhost:1313/about/mission</guid>
-      <description>
-
-&lt;h2 id=&#34;toc_0&#34;&gt;Our Mission&lt;/h2&gt;
-
-&lt;p&gt;Our mission is to sustain an environment where people can educate themselves and others in order to create and expand junctions of technology, art, science, and culture.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>BrainSilo&#39;s Board and Leadership</title>
-      <link>http://localhost:1313/about/leadership</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
-      
-      <guid>http://localhost:1313/about/leadership</guid>
-      <description>
-
-&lt;h2 id=&#34;toc_0&#34;&gt;Our Board&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Dean Pierce&lt;/strong&gt; - Executive Director&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Nick &amp;ldquo;Loki&amp;rdquo; Jacobsen&lt;/strong&gt; - Founder&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Seth Woolley&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;toc_1&#34;&gt;Board Bios&lt;/h2&gt;
-
-&lt;h3 id=&#34;toc_2&#34;&gt;Dean Pierce&lt;/h3&gt;
-
-&lt;h3 id=&#34;toc_3&#34;&gt;Nick &amp;ldquo;Loki&amp;rdquo; Jacobsen&lt;/h3&gt;
-
-&lt;h3 id=&#34;toc_4&#34;&gt;Seth Woolley&lt;/h3&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Current Status</title>
-      <link>http://localhost:1313/about/status</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
-      
-      <guid>http://localhost:1313/about/status</guid>
-      <description>
-
-&lt;h2 id=&#34;toc_0&#34;&gt;Membership&lt;/h2&gt;
-
-&lt;div class=&#34;alert alert-success&#34;&gt;BrainSilo is currently &lt;strong&gt;open for membership&lt;/strong&gt;&lt;/div&gt;
-
-&lt;p&gt;Learn more about our &lt;a href=&#34;/about/space/&#34;&gt;current space&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;toc_1&#34;&gt;Fiscal Sponsorship&lt;/h2&gt;
-
-&lt;p&gt;BrainSilo is a fiscally-sponsored project of the &lt;a href=&#34;http://schoolfactory.org/&#34;&gt;School Factory, Inc. a 501&amp;copy;3 tax-exempt corporation&lt;/a&gt;, which is the organization that allows us to accept charitable donations.&lt;/p&gt;
-
-&lt;h2 id=&#34;toc_2&#34;&gt;Learn More&amp;hellip;&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Learn more about &lt;a href=&#34;/membership/&#34;&gt;membership&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Learn more about &lt;a href=&#34;/about/space/&#34;&gt;our space&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
       <title>BrainSilo&#39;s Space</title>
-      <link>http://localhost:1313/about/space</link>
+      <link>http://www.brainsilo.org/about/space</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
       
-      <guid>http://localhost:1313/about/space</guid>
+      <guid>http://www.brainsilo.org/about/space</guid>
       <description>
 
 &lt;figure class=&#34;block-image text-center&#34;&gt;
@@ -227,74 +295,6 @@
 &lt;p&gt;We&amp;rsquo;re in the process of an effort to rent a larger fabrication facility that will serve the needs of members that want to do metalwork and other large/messy forms of art.&lt;/p&gt;
 
 &lt;p&gt;If you&amp;rsquo;re interested in getting involved in our planning process, check out our &lt;a href=&#34;https://groups.google.com/forum/#!forum/pdxhackerspace&#34;&gt;Google Group&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Teach at BrainSilo</title>
-      <link>http://localhost:1313/about/teaching</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
-      
-      <guid>http://localhost:1313/about/teaching</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;Interested in teaching at BrainSilo?&lt;/strong&gt; We&amp;rsquo;re always looking for talented educators to teach classes at BrainSilo.&lt;/p&gt;
-
-&lt;p&gt;Here are some things to know about being a teacher BrainSilo:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;You don&amp;rsquo;t need to have a degree in your area of knowledge (but that&amp;rsquo;s a plus!).&lt;/li&gt;
-&lt;li&gt;We take a percentage of class proceeds for &lt;strong&gt;&lt;em&gt;paid&lt;/em&gt;&lt;/strong&gt; classes. Usually it is &lt;em&gt;50% to you and 50% to BrainSilo&lt;/em&gt;.&lt;/li&gt;
-&lt;li&gt;There is no usage fee for &lt;strong&gt;&lt;em&gt;free&lt;/em&gt;&lt;/strong&gt; classes.&lt;/li&gt;
-&lt;li&gt;You &lt;em&gt;don&amp;rsquo;t need to be a member to teach a class at BrainSilo&lt;/em&gt;, although a member is required to sponsor your class (opening/closing the space, etc).&lt;/li&gt;
-&lt;li&gt;Members must recieve a discount on classes.&lt;/li&gt;
-&lt;li&gt;Classes are &lt;em&gt;open to the public&lt;/em&gt;.&lt;/li&gt;
-&lt;li&gt;We appreciate references so we can vet you as a teacher.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;If you&amp;rsquo;re interested in teaching a class, &lt;em&gt;the first step is to post your idea in our &lt;a href=&#34;https://groups.google.com/forum/#!forum/pdxhackerspace&#34;&gt;Google Group&lt;/a&gt;&lt;/em&gt; to see if members would be interested.&lt;/p&gt;
-
-&lt;h2 id=&#34;toc_0&#34;&gt;Let Us Know&lt;/h2&gt;
-
-&lt;p&gt;After you&amp;rsquo;ve read and completed the above, &lt;a href=&#34;/contact/&#34;&gt;contact us&lt;/a&gt; with the following information:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Proposed date(s)/time(s)&lt;/strong&gt; for your class (give us alternates in case a date isn&amp;rsquo;t available)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Class fee&lt;/strong&gt; per student (if any)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Materials fee&lt;/strong&gt; (if any)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Prerequisites&lt;/strong&gt; for students (if any)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Class description&lt;/strong&gt; (2-3 paragraphs about the class, what will be taught and who the class is relevant to)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Teacher bio&lt;/strong&gt; (why should people trust you as a teacher?)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Age restrictions&lt;/strong&gt; for students (e.g. if it&amp;rsquo;s an adults only class, let us know!)&lt;/li&gt;
-&lt;li&gt;Any &lt;strong&gt;photos&lt;/strong&gt; of what students will learn (helps to sell your class)&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>About BrainSilo</title>
-      <link>http://localhost:1313/about</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
-      
-      <guid>http://localhost:1313/about</guid>
-      <description>
-
-&lt;p&gt;BrainSilo is a hackspace and maker space in Portland, Oregon. We&amp;rsquo;re a diverse group of artists, makers, hackers and inventors who share a common desire to create, share and learn from each other.&lt;/p&gt;
-
-&lt;h2 id=&#34;toc_0&#34;&gt;Learn More&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Read our &lt;a href=&#34;/about/faq/&#34;&gt;FAQ&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;Check out our current &lt;a href=&#34;/about/status/&#34;&gt;organization status&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;See what &lt;a href=&#34;/about/equipment/&#34;&gt;tools and equipment&lt;/a&gt; we offer.&lt;/li&gt;
-&lt;li&gt;Read our &lt;a href=&#34;/about/mission/&#34;&gt;mission and vision statements&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;Learn about &lt;a href=&#34;/about/history/&#34;&gt;BrainSilo&amp;rsquo;s history&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;See who is on our &lt;a href=&#34;/about/leadership/&#34;&gt;board and leadership committees&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;Learn about our &lt;a href=&#34;/about/space/&#34;&gt;current space&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/about/teaching/&#34;&gt;Teach at BrainSilo&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;Download our &lt;a href=&#34;/about/assets/&#34;&gt;logo and other assets&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;Interested in donating? Checkout our &lt;a href=&#34;/donate/&#34;&gt;Donate page&lt;/a&gt; and our &lt;a href=&#34;/wishlist/&#34;&gt;Wishlist&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
 </description>
     </item>
     
