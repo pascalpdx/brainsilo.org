@@ -2,7 +2,9 @@
 title: "About BrainSilo"
 ---
 
-BrainSilo is a hackspace and maker space in Portland, Oregon. We're a diverse group of artists, makers, hackers and inventors who share a common desire to create, share and learn from each other.
+BrainSilo was a hackspace and maker space in Portland, Oregon. We're a diverse group of artists, makers, hackers and inventors who share a common desire to create, share and learn from each other.
+
+This website exists for historical reasons only.  BrainSilo is closed as of February 2015.
 
 
 ## Learn More
