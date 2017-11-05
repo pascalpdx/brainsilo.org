@@ -4,7 +4,7 @@ title: Current Members
 
 <script type="text/javascript">
     $(function($) {
-      var json = "https://api.meetup.com/2/profiles?offset=0&format=json&group_urlname=pascalhackerspace&photo-host=public&page=1000&fields=membership_dues&order=name&sig_id=70219012&sig=eda562bb1c573babbfddf272ec9afbe99c064ce3";
+      var json = "https://api.meetup.com/2/profiles?offset=0&format=json&group_urlname=pascalhackerspace&photo-host=public&page=1000&fields=membership_dues&order=name&sig_id=70219012&sig=eda562bb1c573babbfddf272ec9afbe99c064ce3&callback=?";
       var members = $.getJSON(json,function(x) {
         console.log(x.results);
         var paid_members = _.filter(x.results, function(m) {return m.membership_dues.period_status == "paid" || m.membership_dues.exempt == true; });

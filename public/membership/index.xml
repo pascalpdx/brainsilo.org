@@ -97,7 +97,7 @@
       <guid>http://www.pascalpdx.org/membership/members/</guid>
       <description>&lt;script type=&#34;text/javascript&#34;&gt;
     $(function($) {
-      var json = &#34;https://api.meetup.com/2/profiles?offset=0&amp;format=json&amp;group_urlname=pascalhackerspace&amp;photo-host=public&amp;page=1000&amp;fields=membership_dues&amp;order=name&amp;sig_id=70219012&amp;sig=eda562bb1c573babbfddf272ec9afbe99c064ce3&#34;;
+      var json = &#34;https://api.meetup.com/2/profiles?offset=0&amp;format=json&amp;group_urlname=pascalhackerspace&amp;photo-host=public&amp;page=1000&amp;fields=membership_dues&amp;order=name&amp;sig_id=70219012&amp;sig=eda562bb1c573babbfddf272ec9afbe99c064ce3&amp;callback=?&#34;;
       var members = $.getJSON(json,function(x) {
         console.log(x.results);
         var paid_members = _.filter(x.results, function(m) {return m.membership_dues.period_status == &#34;paid&#34; || m.membership_dues.exempt == true; });
