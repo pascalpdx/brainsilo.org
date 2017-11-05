@@ -2,7 +2,7 @@
 title: "BrainSilo's Space"
 ---
 
-{{% image http://maps.googleapis.com/maps/api/staticmap?center=45.53822,-122.6726&zoom=17&scale=false&size=600x300&maptype=roadmap&sensor=false&format=png&visual_refresh=true&markers=size:mid%7Ccolor:red%7C45.53822,-122.6726 "BrainSilo Aerial View" %}}
+{{% image "http://maps.googleapis.com/maps/api/staticmap?center=45.53822,-122.6726&zoom=17&scale=false&size=600x300&maptype=roadmap&sensor=false&format=png&visual_refresh=true&markers=size:mid%7Ccolor:red%7C45.53822,-122.6726" "BrainSilo Aerial View" %}}
 
 ## Current Space
 

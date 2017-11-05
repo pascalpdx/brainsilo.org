@@ -1,76 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
   
   <url>
-    <loc>http://www.pascalpdx.org/</loc>
+    <loc>http://www.pascalpdx.org/#support</loc>
+    <lastmod>2017-09-28T03:25:51+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.pascalpdx.org/about/</loc>
+    <loc>http://www.pascalpdx.org/#events</loc>
+    <lastmod>2017-09-28T03:23:53+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.pascalpdx.org/membership/</loc>
+    <loc>http://www.pascalpdx.org/#about</loc>
+    <lastmod>2017-09-28T03:23:33+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.pascalpdx.org/about/leadership/</loc>
+    <loc>http://www.pascalpdx.org/#</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.pascalpdx.org/about/history/</loc>
+    <loc>http://www.pascalpdx.org/#</loc>
+    <lastmod>2017-09-28T03:25:51+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.pascalpdx.org/about/space/</loc>
-  </url>
-  
-  <url>
-    <loc>http://www.pascalpdx.org/wishlist/</loc>
-  </url>
-  
-  <url>
-    <loc>http://www.pascalpdx.org/about/assets/</loc>
-  </url>
-  
-  <url>
-    <loc>http://www.pascalpdx.org/calendar/</loc>
-  </url>
-  
-  <url>
-    <loc>http://www.pascalpdx.org/membership/members/</loc>
-  </url>
-  
-  <url>
-    <loc>http://www.pascalpdx.org/about/status/</loc>
-  </url>
-  
-  <url>
-    <loc>http://www.pascalpdx.org/donate/</loc>
-  </url>
-  
-  <url>
-    <loc>http://www.pascalpdx.org/about/equipment/</loc>
-  </url>
-  
-  <url>
-    <loc>http://www.pascalpdx.org/about/faq/</loc>
-  </url>
-  
-  <url>
-    <loc>http://www.pascalpdx.org/contact/</loc>
-  </url>
-  
-  <url>
-    <loc>http://www.pascalpdx.org/membership/agreement/</loc>
-  </url>
-  
-  <url>
-    <loc>http://www.pascalpdx.org/about/mission/</loc>
-  </url>
-  
-  <url>
-    <loc>http://www.pascalpdx.org/about/teaching/</loc>
+    <loc>http://www.pascalpdx.org/#</loc>
+    <priority>0</priority>
   </url>
   
 </urlset>

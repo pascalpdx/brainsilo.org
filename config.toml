@@ -1,0 +1,27 @@
+baseurl = "http://www.pascalpdx.org"
+title = "PASCAL"
+theme = "dimension"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+enableRobotsTXT = true
+disableKinds=["RSS"]
+
+[params]
+  description = '<!--[-->HACKING TOWARD A BETTER PORTLAND<!--]-->'
+  logo = "fa-microchip"
+  copyright = "PASCAL, a 501(c)3 charitable organization"
+
+[[params.social]]
+  medium = "facebook"
+  icon = "facebook"
+  link = "#"
+
+[[params.social]]
+  medium = "github"
+  icon = "github"
+  link = "https://github.com/pascalpdx"
+
+[languages]
+[languages.en]
+languageName = "English"
+weight = 1
