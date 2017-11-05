@@ -1,8 +1,8 @@
-# BrainSilo.org
+# PascalPDX.org
 
-The website source code for <http://www.brainsilo.org>.
+The website source code for <http://www.pascalpdx.org>.
 
-If you've found a problem with the site (missing content, typos, etc...), please either fork this repository and send a pull request or [create an issue](/lokkju/brainsilo.org/issues).
+If you've found a problem with the site (missing content, typos, etc...), please either fork this repository and send a pull request or [create an issue](/pascalpdx/pascalpdx.org/issues).
 
 The website is built with [Hugo](http://hugo.spf13.com), a static site generator written in Golang.
 
@@ -24,7 +24,7 @@ Site content is found in the `content` directory and is written in Markdown.
 
 ## Deployment
 
-In order to deploy to this repository, you'll need commit access. Create an [issue](https://github.com/lokkju/brainsilo.org/issues/) if you want commit access.
+In order to deploy to this repository, you'll need commit access. Create an [issue](https://github.com/pascalpdx/pascalpdx.org/issues/) if you want commit access.
 
 
 ### Deploying Changes
@@ -42,7 +42,7 @@ Content released under the [Creative Commons Share-Alike 2.5 License](http://cre
 
 
 ## Credits
-Modified for BrainSilo by [Loki](http://www.lokkju.com/)
+Modified for PascalPDX by @lokkju and @bitassassin
 
 Created by [Dana Woodman](http://danawoodman.com).
 
