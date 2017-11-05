@@ -6,7 +6,8 @@ weight = 0
 
 +++
 
-PASCAL currently holds an Open Day on the Second Satruday of each month. 
+PASCAL currently holds an Open Day on the Second Saturday of each month.
+  
 Come visit us for tours of the space, talks, and fun information security exhibits.
 
 PASCAL's other upcoming events can be found in the on [Calagator](https://calagator.org/venues/202395701) and [Meetup](https://www.meetup.com/pascalhackerspace/).
