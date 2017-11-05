@@ -2,7 +2,7 @@
 title: "Calendar"
 ---
 
-Check out our [Meetup Calendar](http://www.meetup.com/BrainSilo/events/calendar/) to see all our upcoming classes, meetups and events!
+Check out our [Meetup Calendar](http://www.meetup.com/pascalhackerspace/events/calendar/) to see all our upcoming classes, meetups and events!
 
 ## Idea for an Event?
 

@@ -38,6 +38,6 @@ Since we're a fiscally-sponsored project of the School Factory, Inc. a 501(c)3 t
 
 ### Reimbursements
 
-BrainSilo does not offer any reimbursements for donations. If you'd like to donate something to BrainSilo and want something in return, the only thing we can offer is a tax receipt (and our thanks!).
+PASCAL does not offer any reimbursements for donations. If you'd like to donate something to BrainSilo and want something in return, the only thing we can offer is a tax receipt (and our thanks!).
 
 [google-group]: https://groups.google.com/forum/#!forum/pdxhackerspace

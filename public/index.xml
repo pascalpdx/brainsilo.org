@@ -291,7 +291,7 @@
       <guid>http://www.pascalpdx.org/calendar/</guid>
       <description>
 
-&lt;p&gt;Check out our &lt;a href=&#34;http://www.meetup.com/BrainSilo/events/calendar/&#34;&gt;Meetup Calendar&lt;/a&gt; to see all our upcoming classes, meetups and events!&lt;/p&gt;
+&lt;p&gt;Check out our &lt;a href=&#34;http://www.meetup.com/pascalhackerspace/events/calendar/&#34;&gt;Meetup Calendar&lt;/a&gt; to see all our upcoming classes, meetups and events!&lt;/p&gt;
 
 &lt;h2 id=&#34;idea-for-an-event&#34;&gt;Idea for an Event?&lt;/h2&gt;
 
@@ -313,7 +313,7 @@
       <guid>http://www.pascalpdx.org/membership/members/</guid>
       <description>&lt;script type=&#34;text/javascript&#34;&gt;
     $(function($) {
-      var json = &#34;http://api.meetup.com/2/profiles?order=name&amp;group_urlname=brainsilo&amp;offset=0&amp;photo-host=public&amp;format=json&amp;page=1000&amp;fields=membership_dues&amp;sig_id=70219012&amp;sig=95901ae424495d4bf3440feeefc9ece471fae86d&amp;callback=?&#34;;
+      var json = &#34;https://api.meetup.com/2/profiles?offset=0&amp;format=json&amp;group_urlname=pascalhackerspace&amp;photo-host=public&amp;page=1000&amp;fields=membership_dues&amp;order=name&amp;sig_id=70219012&amp;sig=eda562bb1c573babbfddf272ec9afbe99c064ce3&#34;;
       var members = $.getJSON(json,function(x) {
         console.log(x.results);
         var paid_members = _.filter(x.results, function(m) {return m.membership_dues.period_status == &#34;paid&#34; || m.membership_dues.exempt == true; });
@@ -395,7 +395,7 @@
 
 &lt;h3 id=&#34;reimbursements&#34;&gt;Reimbursements&lt;/h3&gt;
 
-&lt;p&gt;BrainSilo does not offer any reimbursements for donations. If you&amp;rsquo;d like to donate something to BrainSilo and want something in return, the only thing we can offer is a tax receipt (and our thanks!).&lt;/p&gt;
+&lt;p&gt;PASCAL does not offer any reimbursements for donations. If you&amp;rsquo;d like to donate something to BrainSilo and want something in return, the only thing we can offer is a tax receipt (and our thanks!).&lt;/p&gt;
 </description>
     </item>
     
@@ -477,7 +477,7 @@
 
 &lt;p&gt;&lt;strong&gt;If you&amp;rsquo;ve got general questions about BrainSilo, first reach out to members on our &lt;a href=&#34;https://groups.google.com/forum/#!forum/pdxhackerspace&#34;&gt;Google Group&lt;/a&gt;&lt;/strong&gt;. Our members can answer most common questions about BrainSilo.&lt;/p&gt;
 
-&lt;p&gt;If you want to get in touch with &lt;a href=&#34;http://www.pascalpdx.org/about/leadership/&#34;&gt;BrainSilo leadership&lt;/a&gt;, please email us at: &lt;a href=&#34;mailto:admin@brainsilo.org&#34;&gt;admin@brainsilo.org&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;If you want to get in touch with &lt;a href=&#34;http://www.pascalpdx.org/about/leadership/&#34;&gt;PASCAL leadership&lt;/a&gt;, please email us at: &lt;a href=&#34;mailto:admin@pascalpdx.org&#34;&gt;admin@pascalpdx.org&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;*&lt;strong&gt;Note:&lt;/strong&gt; Please be patient if we don&amp;rsquo;t respond right away, we get lots of email and we are all volunteers!*&lt;/p&gt;
 
@@ -487,24 +487,24 @@
 
 &lt;h2 id=&#34;want-to-teach&#34;&gt;Want to Teach?&lt;/h2&gt;
 
-&lt;p&gt;If you&amp;rsquo;re interested in teaching at BrainSilo, please learn more no our &lt;a href=&#34;http://www.pascalpdx.org/about/teaching/&#34;&gt;Teachers page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;re interested in teaching at BrainSilo, please learn more on our &lt;a href=&#34;http://www.pascalpdx.org/about/teaching/&#34;&gt;Teachers page&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&#34;stay-in-touch&#34;&gt;Stay In Touch&lt;/h2&gt;
 
-&lt;p&gt;If you&amp;rsquo;re curious about staying up to date with what&amp;rsquo;s going on at BrainSilo, &lt;em&gt;join our &lt;a href=&#34;https://groups.google.com/forum/#!forum/pdxhackerspace&#34;&gt;Google Group&lt;/a&gt;&lt;/em&gt; to get news and updates.&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;re curious about staying up to date with what&amp;rsquo;s going on at PASCAL, &lt;em&gt;join our &lt;a href=&#34;https://groups.google.com/forum/#!forum/pdxhackerspace&#34;&gt;Google Group&lt;/a&gt;&lt;/em&gt; to get news and updates.&lt;/p&gt;
 
 &lt;h2 id=&#34;contact-info&#34;&gt;Contact Info&lt;/h2&gt;
 
 &lt;p&gt;Our &lt;strong&gt;email&lt;/strong&gt; is:&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;&lt;a href=&#34;mailto:admin@brainsilo.org&#34;&gt;admin@brainsilo.org&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;mailto:admin@pascalpdx.org&#34;&gt;admin@brainsilo.org&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;Our &lt;strong&gt;address&lt;/strong&gt; is:&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;2119 N Kerby Ave, Unit C-2, Portland, OR 97227-1978&lt;/p&gt;
+&lt;p&gt;2410 N Mississippi Ave, Portland, OR 97227&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;Our &lt;strong&gt;phone number&lt;/strong&gt; is:&lt;/p&gt;
