@@ -31,6 +31,7 @@ In order to deploy to this repository, you'll need commit access. Create an [iss
 
 Making a change in this repo and pushing changes has multiple steps, so we have a convenience utility that does this for you found in `deploy.sh` which you can use like this:
 
+    git remote add public git@github.com:pascalpdx/pascalpdx.github.io.git
     ./publish
 
 ... which builds your changes, commits the code and pushes the updates to both github repos.
