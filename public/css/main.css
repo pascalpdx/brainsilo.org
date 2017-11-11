@@ -771,7 +771,7 @@ button {
     -webkit-transition-delay: 0.75s;
     -ms-transition-delay: 0.75s;
     transition-delay: 0.75s;
-    background-image: linear-gradient(to top, rgba(19, 21, 25, 0.5), rgba(19, 21, 25, 0.5)), url("/images/overlay.png");
+    background-image: linear-gradient(to top, rgba(19, 21, 25, 0.6), rgba(19, 21, 25, 0.6)), url("/images/overlay.png");
     background-size: auto, 256px 256px;
     background-position: center, center;
     background-repeat: no-repeat, repeat;
@@ -1130,7 +1130,7 @@ button {
   #footer .copyright {
     letter-spacing: 0.2rem;
     font-size: 0.6rem;
-    opacity: 0.75;
+    opacity: 0.9;
     margin-bottom: 0;
     text-transform: uppercase; }
   body.is-article-visible #footer {

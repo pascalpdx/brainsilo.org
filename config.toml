@@ -10,11 +10,12 @@ disableKinds=["RSS"]
   description = '<!--[-->HACKING TOWARD A BETTER PORTLAND<!--]-->'
   logo = "fa-microchip"
   copyright = "PASCAL, a 501(c)3 charitable organization"
+  address = "2410 N Mississipi Avenue, Portland, OR 97227"
 
 [[params.social]]
   medium = "facebook"
   icon = "facebook"
-  link = "#"
+  link = "https://www.facebook.com/pg/pascalpdx/"
 
 [[params.social]]
   medium = "github"
