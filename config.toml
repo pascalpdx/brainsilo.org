@@ -1,28 +1,79 @@
-baseurl = "http://www.pascalpdx.org"
-title = "PASCAL"
-theme = "dimension"
+baseURL = "http://www.pascalpdx.org"
 languageCode = "en-us"
-defaultContentLanguage = "en"
-enableRobotsTXT = true
-disableKinds=["RSS"]
+title = "PASCAL"
+theme = "minimal"
+RSSLink = "true"
+#disqusShortname = "username" # delete this to disable disqus comments
+googleAnalytics = ""
+
+[taxonomies]
+    category = "categories"
+    tag = "tags"
 
 [params]
-  description = '<!--[-->HACKING TOWARD A BETTER PORTLAND<!--]-->'
-  logo = "fa-microchip"
-  copyright = "PASCAL, a 501(c)3 charitable organization"
-  address = "226 SE Madison St, Ste. Hax, Portland, OR 97214"
+    copyright = "This work is licensed under a Creative Commons Attribution 4.0 International License. Powered by [Hugo](https://gohugo.io) and [Minimal](https://github.com/calintat/minimal)"
+    name = "PASCAL"
+    author = "PASCAL"
+    description = "<!--[-->HACKING TOWARD A BETTER PORTLAND<!--]-->"
+    githubUsername = "pascalpdx"
+    accent = "Azure"
+    showBorder = true
+    backgroundColor = "#505555"
+    font = "Press Start 2P" # should match the name on Google Fonts!
+    highlight = true
+    highlightStyle = "solarized-dark"
+    highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
 
-[[params.social]]
-  medium = "facebook"
-  icon = "facebook"
-  link = "https://www.facebook.com/pg/pascalpdx/"
+[[menu.main]]
+    url = "/"
+    name = "Home"
+    weight = 1
 
-[[params.social]]
-  medium = "github"
-  icon = "github"
-  link = "https://github.com/pascalpdx"
+[[menu.main]]
+    url = "/static/about/"
+    name = "About"
+    weight = 2
 
-[languages]
-[languages.en]
-languageName = "English"
-weight = 1
+[[menu.main]]
+    url = "/static/events/"
+    name = "Events"
+    weight = 3
+
+[[menu.main]]
+    url = "/static/support/"
+    name = "Support"
+    weight = 4
+
+[[menu.main]]
+    url = "/project/"
+    name = "Projects"
+    weight = 5
+
+[[menu.main]]
+    url = "/post/"
+    name = "News"
+    weight = 6
+
+# Social icons to be shown on the right-hand side of the navigation bar
+# The "name" field should match the name of the icon to be used
+# The list of available icons can be found at http://fontawesome.io/icons/
+
+[[menu.icon]]
+    url = "mailto:contact@pascalpdx.org"
+    name = "envelope-o"
+    weight = 1
+
+[[menu.icon]]
+    url = "https://github.com/pascalpdx/"
+    name = "github"
+    weight = 2
+
+[[menu.icon]]
+    url = "https://twitter.com/pascalpdx/"
+    name = "twitter"
+    weight = 3
+
+[[menu.icon]]
+    url = "https://www.meetup.com/pascalhackerspace/"
+    name = "meetup"
+    weight = 4
