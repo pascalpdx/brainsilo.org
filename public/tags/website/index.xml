@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Website on PASCAL</title>
-    <link>http://www.pascalpdx.org/tags/website/</link>
+    <link>https://www.pascalpdx.org/tags/website/</link>
     <description>Recent content in Website on PASCAL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution 4.0 International License. Powered by [Hugo](https://gohugo.io) and [Minimal](https://github.com/calintat/minimal)</copyright>
     <lastBuildDate>Wed, 03 Oct 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://www.pascalpdx.org/tags/website/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.pascalpdx.org/tags/website/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>A little off the top</title>
-      <link>http://www.pascalpdx.org/post/website_redesign/</link>
+      <link>https://www.pascalpdx.org/post/website_redesign/</link>
       <pubDate>Wed, 03 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://www.pascalpdx.org/post/website_redesign/</guid>
+      <guid>https://www.pascalpdx.org/post/website_redesign/</guid>
       <description>We&amp;rsquo;ve redesigned the site for better readability and to make updates easier. We have always been using Hugo in the development of our site, but the previous page was difficult to update and navigate. To make things clearer, we have migrated to the &amp;lsquo;Minimal&amp;rsquo; theme (link below).
 As always, our website is hosted on Github, where comments, suggestions and changes can be proposed. Click the Github logo in the top right corner of the page to get started with that.</description>
     </item>
     
     <item>
       <title>This site</title>
-      <link>http://www.pascalpdx.org/project/reference_self/</link>
+      <link>https://www.pascalpdx.org/project/reference_self/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.pascalpdx.org/project/reference_self/</guid>
+      <guid>https://www.pascalpdx.org/project/reference_self/</guid>
       <description>The project that will never end, this site is open for suggestions and updates forever. Please submit your fixes in an orderly fashion, and disregard all hazardous warnings, as it is already much too late.</description>
     </item>
     

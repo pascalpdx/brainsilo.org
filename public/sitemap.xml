@@ -3,69 +3,69 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.pascalpdx.org/post/website_redesign/</loc>
+    <loc>https://www.pascalpdx.org/post/website_redesign/</loc>
     <lastmod>2018-10-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.pascalpdx.org/static/about/</loc>
+    <loc>https://www.pascalpdx.org/static/about/</loc>
   </url>
   
   <url>
-    <loc>http://www.pascalpdx.org/categories/</loc>
+    <loc>https://www.pascalpdx.org/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.pascalpdx.org/tags/meta/</loc>
-    <lastmod>2018-10-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.pascalpdx.org/post/</loc>
-    <lastmod>2018-10-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.pascalpdx.org/</loc>
+    <loc>https://www.pascalpdx.org/tags/meta/</loc>
     <lastmod>2018-10-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.pascalpdx.org/project/</loc>
+    <loc>https://www.pascalpdx.org/post/</loc>
+    <lastmod>2018-10-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.pascalpdx.org/static/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.pascalpdx.org/static/support/</loc>
-  </url>
-  
-  <url>
-    <loc>http://www.pascalpdx.org/tags/</loc>
+    <loc>https://www.pascalpdx.org/</loc>
     <lastmod>2018-10-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.pascalpdx.org/static/board.who/</loc>
+    <loc>https://www.pascalpdx.org/project/</loc>
   </url>
   
   <url>
-    <loc>http://www.pascalpdx.org/project/reference_self/</loc>
+    <loc>https://www.pascalpdx.org/static/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.pascalpdx.org/static/events/</loc>
+    <loc>https://www.pascalpdx.org/static/support/</loc>
   </url>
   
   <url>
-    <loc>http://www.pascalpdx.org/tags/website/</loc>
+    <loc>https://www.pascalpdx.org/tags/</loc>
+    <lastmod>2018-10-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.pascalpdx.org/static/board.who/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.pascalpdx.org/project/reference_self/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.pascalpdx.org/static/events/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.pascalpdx.org/tags/website/</loc>
     <lastmod>2018-10-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

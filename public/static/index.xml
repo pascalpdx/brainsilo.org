@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Statics on PASCAL</title>
-    <link>http://www.pascalpdx.org/static/</link>
+    <link>https://www.pascalpdx.org/static/</link>
     <description>Recent content in Statics on PASCAL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution 4.0 International License. Powered by [Hugo](https://gohugo.io) and [Minimal](https://github.com/calintat/minimal)</copyright>
     
-	<atom:link href="http://www.pascalpdx.org/static/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.pascalpdx.org/static/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About PASCAL</title>
-      <link>http://www.pascalpdx.org/static/about/</link>
+      <link>https://www.pascalpdx.org/static/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.pascalpdx.org/static/about/</guid>
+      <guid>https://www.pascalpdx.org/static/about/</guid>
       <description>PASCAL is the Portland Area Scientific and Cultural Advancement League, a 501(c)3 nonprofit organization founded to serve the information security community, educate the interested and the under-served, and to provide a venue for related gatherings, events, and projects.
 PASCAL&amp;rsquo;s venue, a hackerspace and community event space, is located less than one mile SE from the Moda Center, directly between (and under) the Hawthorne Bridge ramps.
  map
@@ -25,10 +25,10 @@ PASCAL is operated by a Board of hackers.</description>
     
     <item>
       <title>Supporting PASCAL</title>
-      <link>http://www.pascalpdx.org/static/support/</link>
+      <link>https://www.pascalpdx.org/static/support/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.pascalpdx.org/static/support/</guid>
+      <guid>https://www.pascalpdx.org/static/support/</guid>
       <description>Supporting PASCAL is easy.
 Join PASCAL as a member, and get 24&amp;frasl;7 access to the space, the ability to host your own events, and good feelings.
 Make a one time donation, either of money or stuff
@@ -38,20 +38,20 @@ If your company would like to support us with assets, a one time donation, or a 
     
     <item>
       <title>The PASCAL Board</title>
-      <link>http://www.pascalpdx.org/static/board.who/</link>
+      <link>https://www.pascalpdx.org/static/board.who/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.pascalpdx.org/static/board.who/</guid>
+      <guid>https://www.pascalpdx.org/static/board.who/</guid>
       <description>PASCAL is overseen by a board. We technically have to be to be a nonprofit organization. Those board members serve two year terms and are self-governed, meaning new board members are voted for, and current board members can be reaffirmed by, the current board. Board members serve staggered two year terms, with no specific term limit.
 Our board meetings are typically held at least once a month, usually in the hackerspace itself.</description>
     </item>
     
     <item>
       <title>Upcoming Events at PASCAL</title>
-      <link>http://www.pascalpdx.org/static/events/</link>
+      <link>https://www.pascalpdx.org/static/events/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.pascalpdx.org/static/events/</guid>
+      <guid>https://www.pascalpdx.org/static/events/</guid>
       <description>PASCAL opens to the public on the second Saturday of every month, and regularly holds other public events throughout the month. During the &amp;ldquo;Open Days&amp;rdquo;, guest are invited to come down and see what we are up to, see the space itself, and learn more about our mission and goals. Our next event can be seen in this Meetup widget:  For working with us to host your events, please contact us at events@pascalpdx.</description>
     </item>
     

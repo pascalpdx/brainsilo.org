@@ -1,4 +1,4 @@
-baseURL = "http://www.pascalpdx.org"
+baseURL = "https://www.pascalpdx.org"
 languageCode = "en-us"
 title = "PASCAL"
 theme = "minimal"
