@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on PASCAL</title>
+    <link>http://www.pascalpdx.org/post/</link>
+    <description>Recent content in News on PASCAL</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution 4.0 International License. Powered by [Hugo](https://gohugo.io) and [Minimal](https://github.com/calintat/minimal)</copyright>
+    <lastBuildDate>Wed, 03 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.pascalpdx.org/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A little off the top</title>
+      <link>http://www.pascalpdx.org/post/website_redesign/</link>
+      <pubDate>Wed, 03 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.pascalpdx.org/post/website_redesign/</guid>
+      <description>We&amp;rsquo;ve redesigned the site for better readability and to make updates easier. We have always been using Hugo in the development of our site, but the previous page was difficult to update and navigate. To make things clearer, we have migrated to the &amp;lsquo;Minimal&amp;rsquo; theme (link below).
+As always, our website is hosted on Github, where comments, suggestions and changes can be proposed. Click the Github logo in the top right corner of the page to get started with that.</description>
+    </item>
+    
+  </channel>
+</rss>

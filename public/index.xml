@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PASCAL</title>
+    <link>http://www.pascalpdx.org/</link>
+    <description>Recent content on PASCAL</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution 4.0 International License. Powered by [Hugo](https://gohugo.io) and [Minimal](https://github.com/calintat/minimal)</copyright>
+    <lastBuildDate>Wed, 03 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.pascalpdx.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A little off the top</title>
+      <link>http://www.pascalpdx.org/post/website_redesign/</link>
+      <pubDate>Wed, 03 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.pascalpdx.org/post/website_redesign/</guid>
+      <description>We&amp;rsquo;ve redesigned the site for better readability and to make updates easier. We have always been using Hugo in the development of our site, but the previous page was difficult to update and navigate. To make things clearer, we have migrated to the &amp;lsquo;Minimal&amp;rsquo; theme (link below).
+As always, our website is hosted on Github, where comments, suggestions and changes can be proposed. Click the Github logo in the top right corner of the page to get started with that.</description>
+    </item>
+    
+    <item>
+      <title>About PASCAL</title>
+      <link>http://www.pascalpdx.org/static/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.pascalpdx.org/static/about/</guid>
+      <description>PASCAL is the Portland Area Scientific and Cultural Advancement League, a 501(c)3 nonprofit organization founded to serve the information security community, educate the interested and the under-served, and to provide a venue for related gatherings, events, and projects.
+PASCAL&amp;rsquo;s venue, a hackerspace and community event space, is located less than one mile SE from the Moda Center, directly between (and under) the Hawthorne Bridge ramps.
+ map
+PASCAL is operated by a Board of hackers.</description>
+    </item>
+    
+    <item>
+      <title>Supporting PASCAL</title>
+      <link>http://www.pascalpdx.org/static/support/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.pascalpdx.org/static/support/</guid>
+      <description>Supporting PASCAL is easy.
+Join PASCAL as a member, and get 24&amp;frasl;7 access to the space, the ability to host your own events, and good feelings.
+Make a one time donation, either of money or stuff
+Volunteer, send us an email at volunteer@pascalpdx.org.
+If your company would like to support us with assets, a one time donation, or a recurring pledge, send us an email at donations@pascalpdx.org.</description>
+    </item>
+    
+    <item>
+      <title>The PASCAL Board</title>
+      <link>http://www.pascalpdx.org/static/board.who/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.pascalpdx.org/static/board.who/</guid>
+      <description>PASCAL is overseen by a board. We technically have to be to be a nonprofit organization. Those board members serve two year terms and are self-governed, meaning new board members are voted for, and current board members can be reaffirmed by, the current board. Board members serve staggered two year terms, with no specific term limit.
+Our board meetings are typically held at least once a month, usually in the hackerspace itself.</description>
+    </item>
+    
+    <item>
+      <title>This site</title>
+      <link>http://www.pascalpdx.org/project/reference_self/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.pascalpdx.org/project/reference_self/</guid>
+      <description>The project that will never end, this site is open for suggestions and updates forever. Please submit your fixes in an orderly fashion, and disregard all hazardous warnings, as it is already much too late.</description>
+    </item>
+    
+    <item>
+      <title>Upcoming Events at PASCAL</title>
+      <link>http://www.pascalpdx.org/static/events/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.pascalpdx.org/static/events/</guid>
+      <description>PASCAL opens to the public on the second Saturday of every month, and regularly holds other public events throughout the month. During the &amp;ldquo;Open Days&amp;rdquo;, guest are invited to come down and see what we are up to, see the space itself, and learn more about our mission and goals. Our next event can be seen in this Meetup widget:  For working with us to host your events, please contact us at events@pascalpdx.</description>
+    </item>
+    
+  </channel>
+</rss>
