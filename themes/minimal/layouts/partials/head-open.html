@@ -1,0 +1,5 @@
+ <!-- Intentionally left empty. Override this partial in your website to insert code just after the
+      opening <head> tag. For example, to install Google Tag Manager. -->
+{{ with .OutputFormats.Get "rss" -}}
+    {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+{{ end -}}
