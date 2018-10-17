@@ -6,7 +6,6 @@
     <description>Recent content on PASCAL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>This work is licensed under a Creative Commons Attribution 4.0 International License. Powered by [Hugo](https://gohugo.io) and [Minimal](https://github.com/calintat/minimal)</copyright>
     <lastBuildDate>Wed, 03 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.pascalpdx.org/index.xml" rel="self" type="application/rss+xml" />
@@ -41,10 +40,10 @@ PASCAL is operated by a Board of hackers.</description>
       
       <guid>https://www.pascalpdx.org/static/support/</guid>
       <description>Supporting PASCAL is easy.
-Join PASCAL as a member, and get 24&amp;frasl;7 access to the space, the ability to host your own events, and good feelings.
-Make a one time donation, either of money or stuff
-Volunteer, send us an email at volunteer@pascalpdx.org.
-If your company would like to support us with assets, a one time donation, or a recurring pledge, send us an email at donations@pascalpdx.org.</description>
+Join PASCAL as a member, and get 24&amp;frasl;7 access to the space, the ability to host your own events, and good feelings. You can find the member application here.
+You can also make a individual donations of either money or stuff.
+If your company would like to support us with assets, a one time donation, or a recurring pledge, send us an email at donations@pascalpdx.org.
+To volunteer, send us an email at volunteer@pascalpdx.</description>
     </item>
     
     <item>
@@ -72,8 +71,9 @@ Our board meetings are typically held at least once a month, usually in the hack
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.pascalpdx.org/static/events/</guid>
-      <description>PASCAL opens to the public on the second Saturday of every month, and regularly holds other public events throughout the month. During the &amp;ldquo;Open Days&amp;rdquo;, guest are invited to come down and see what we are up to, see the space itself, and learn more about our mission and goals. Our next event can be seen in this Meetup widget: 
-For working with us to host your events, please contact us at events@pascalpdx.</description>
+      <description>PASCAL opens to the public on the second Saturday of every month, and regularly holds other public events throughout the month. You are welcome to come to public events if you are not a paying member at PASCAL.
+During the &amp;ldquo;Open Days&amp;rdquo;, please visit PASCAL to see what we are up to, take a tour of the space itself, and learn more about our mission and goals.
+Calagator is a all-volunteer run effort to aggregate public programming and events relevant to the technology community in Portland, OR.</description>
     </item>
     
   </channel>
