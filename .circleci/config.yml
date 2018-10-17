@@ -2,7 +2,7 @@ version: 2
 jobs:
   build:
     docker:
-      - image: jguyomard/hugo-builder:0.49
+      - image: cibuilds/hugo:0.49
     steps:
       - checkout
       - run:
@@ -10,5 +10,7 @@ jobs:
           command: echo $PAGES_DEPLOY_SSH_KEY | base64 -d > ~/.ssh/id_rsa_pages
       - run:
           name: Publish Site
-          command: GIT_SSH_COMMAND='ssh -i ~/.ssh/id_rsa_pages' /bin/sh ~/project/publish
+          command: ./publish
+          environment: 
+            GIT_SSH_COMMAND: ssh -i ~/.ssh/id_rsa_pages
 
