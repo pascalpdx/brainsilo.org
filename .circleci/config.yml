@@ -10,7 +10,7 @@ jobs:
           command: echo $PAGES_DEPLOY_SSH_KEY | base64 -d > ~/.ssh/id_rsa_pages
       - run:
           name: set ssh key permissions
-          command: chmod 0644 ~/.ssh/id_rsa_pages
+          command: chmod 0600 ~/.ssh/id_rsa_pages
       - run:
           name: add git-subtree
           command: apk add --no-cache git-subtree
