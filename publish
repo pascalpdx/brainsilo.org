@@ -3,6 +3,8 @@
 # Make sure this script is run alongside the hugo content 
 # even if run as an executable.
 
+echo $GIT_SSH_COMMAND
+
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 cd $DIR
 
