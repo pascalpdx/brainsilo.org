@@ -12,6 +12,11 @@ jobs:
           name: add git-subtree
           command: apk add --no-cache git-subtree
       - run:
+          name: debug
+          command: git config -l
+          environement:
+            GIT_SSH_COMMAND: ssh -i ~/.ssh/id_rsa_pages
+      - run:
           name: Publish Site
           command: ./publish
           environment: 
