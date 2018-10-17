@@ -19,7 +19,7 @@ else
   echo -e "\033[0;32mBuilding project...\033[0m"
 
   # Build the project.
-  hugo -s ./
+  HUGO_ENV=production hugo -v -s ./
 
   echo -e "\033[0;32mCommitting changes...\033[0m"
 
