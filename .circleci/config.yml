@@ -14,14 +14,13 @@ jobs:
       - run:
           name: add git-subtree
           command: apk add --no-cache git-subtree
-      - run:
-          name: debug
-          command: cat /etc/ssh/ssh_config
-          environement:
-            GIT_SSH_COMMAND: ssh -i ~/.ssh/id_rsa_pages
-      - run:
+      - deploy:
           name: Publish Site
-          command: ./publish
+          command: |
+                  if [ "${CIRCLE_BRANCH}" = "master" ]; then
+                    ./publish
+                  else
+                    echo "Not master branch, dry run only"
+                  fi
           environment: 
-            GIT_SSH_COMMAND: ssh -v -o IdentitiesOnly=yes -i ~/.ssh/id_rsa_pages
-
+            GIT_SSH_COMMAND: ssh -o IdentitiesOnly=yes -i ~/.ssh/id_rsa_pages

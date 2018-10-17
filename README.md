@@ -1,5 +1,7 @@
 # PascalPDX.org
 
+[![CircleCI](https://circleci.com/gh/pascalpdx/pascalpdx.org/tree/master.svg?style=svg)](https://circleci.com/gh/pascalpdx/pascalpdx.org/tree/master)
+
 The website source code for <http://www.pascalpdx.org>.
 
 If you've found a problem with the site (missing content, typos, etc...), please either fork this repository and send a pull request or [create an issue](/pascalpdx/pascalpdx.org/issues).
@@ -24,17 +26,11 @@ Site content is found in the `content` directory and is written in Markdown.
 
 ## Deployment
 
-In order to deploy to this repository, you'll need commit access. Create an [issue](https://github.com/pascalpdx/pascalpdx.org/issues/) if you want commit access.
-
+In order to deploy to this repository, you'll need to submit a pull request.
 
 ### Deploying Changes
 
-Making a change in this repo and pushing changes has multiple steps, so we have a convenience utility that does this for you found in `deploy.sh` which you can use like this:
-
-    git remote add public git@github.com:pascalpdx/pascalpdx.github.io.git
-    ./publish
-
-... which builds your changes, commits the code and pushes the updates to both github repos.
+We have a circleci build process ... which commits the code and pushes the updates to the github pages repos
 
 
 ## License
