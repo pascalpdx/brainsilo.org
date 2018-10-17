@@ -2,30 +2,24 @@
 
 # Make sure this script is run alongside the hugo content 
 # even if run as an executable.
+
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 cd $DIR
 
-echo -e "\033[0;32mBuilding project...\033[0m"
+if [ -z "$(git status --porcelain)" ]; then
+  # Working directory clean
+  echo -e "\033[0;32mBuilding project...\033[0m"
 
-# Build the project.
-hugo -s ./
+  # Build the project.
+  hugo -s ./
 
-echo -e "\033[0;32mCommitting changes...\033[0m"
+  echo -e "\033[0;32mCommitting changes...\033[0m"
 
-# Add changes to git.
-git add --all .
+  # Push build repos.
+  git push git@github.com:pascalpdx/pascalpdx.github.io.git `git subtree split --prefix public master`:master --force
 
-# Commit changes.
-msg="rebuilding site `date`"
-if [ $# -eq 1 ]
-  then msg="$1"
+  echo -e "\033[0;32mChanges successfully published!\033[0m"
+else 
+  # Uncommitted changes
+  echo -e "\033[0;32mYou must commit your changes before publishing\033[0m"
 fi
-git commit -m "$msg"
-
-echo -e "\033[0;32mDeploying updates to Github...\033[0m"
-
-# Push source and build repos.
-git push origin master
-git push public `git subtree split --prefix public master`:master --force
-
-echo -e "\033[0;32mChanges successfully published!\033[0m"
