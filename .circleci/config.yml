@@ -6,9 +6,9 @@ jobs:
     steps:
       - run:
           name: add ssh key for github pages
-          command: base64 -d $PAGES_DEPLOY_SSH_KEY > ~/.ssh/id_rsa_pages
+          command: base64 -d $PAGES_DEPLOY_SSH_KEY > ~/id_rsa_pages
       - checkout
       - run:
           name: Publish Site
-          command: GIT_SSH_COMMAND='ssh -i ~/.ssh/id_rsa_pages' ./publish
+          command: GIT_SSH_COMMAND='ssh -i ~/id_rsa_pages' ./publish
 
