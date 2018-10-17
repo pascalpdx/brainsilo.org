@@ -25,6 +25,9 @@ else
 
   # Push build repos.
   git push git@github.com:pascalpdx/pascalpdx.github.io.git `git subtree split --prefix public master`:master --force
-
+  if [ $? != 0 ]; then
+    echo -e "\033[0;32mChanges could not be published!\033[0m"
+    exit 1
+  fi
   echo -e "\033[0;32mChanges successfully published!\033[0m"
 fi
