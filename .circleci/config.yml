@@ -4,11 +4,11 @@ jobs:
     docker:
       - image: jguyomard/hugo-builder:0.49
     steps:
-      - run:
-          name: add ssh key for github pages
-          command: echo $PAGES_DEPLOY_SSH_KEY | base64 -d > ~/id_rsa_pages
       - checkout
       - run:
+          name: add ssh key for github pages
+          command: echo $PAGES_DEPLOY_SSH_KEY | base64 -d > ~/.ssh/id_rsa_pages
+      - run:
           name: Publish Site
-          command: GIT_SSH_COMMAND='ssh -i ~/id_rsa_pages' ./publish
+          command: GIT_SSH_COMMAND='ssh -i ~/.ssh/id_rsa_pages' ./project/publish
 
