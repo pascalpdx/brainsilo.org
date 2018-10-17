@@ -20,5 +20,5 @@ jobs:
           name: Publish Site
           command: ./publish
           environment: 
-            GIT_SSH_COMMAND: ssh -v -i ~/.ssh/id_rsa_pages
+            GIT_SSH_COMMAND: ssh -v -o IdentitiesOnly=yes -i ~/.ssh/id_rsa_pages
 
