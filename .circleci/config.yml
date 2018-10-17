@@ -9,6 +9,9 @@ jobs:
           name: add ssh key for github pages
           command: echo $PAGES_DEPLOY_SSH_KEY | base64 -d > ~/.ssh/id_rsa_pages
       - run:
+          name: add git-subtree
+          command: apk add --no-cache git-subtree
+      - run:
           name: Publish Site
           command: ./publish
           environment: 
