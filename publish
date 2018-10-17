@@ -9,10 +9,10 @@ DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 cd $DIR
 
 if [ -n "$(git status --porcelain)" ]; then
-  echo -e "\033[0;32mYou must commit and push your changes before publishing\033[0m"
+  echo -e "\033[0;31mYou must commit and push your changes before publishing\033[0m"
   exit 1
 elif [ -n "$(git status --porcelain -b|grep ahead)" ]; then
-  echo -e "\033[0;32mYou must push your changes before publishing\033[0m"
+  echo -e "\033[0;31mYou must push your changes before publishing\033[0m"
   exit 1
 else
   # Working directory clean
@@ -26,7 +26,7 @@ else
   # Push build repos.
   git push git@github.com:pascalpdx/pascalpdx.github.io.git `git subtree split --prefix public master`:master --force
   if [ $? != 0 ]; then
-    echo -e "\033[0;32mChanges could not be published!\033[0m"
+    echo -e "\033[0;31mChanges could not be published!\033[0m"
     exit 1
   fi
   echo -e "\033[0;32mChanges successfully published!\033[0m"
