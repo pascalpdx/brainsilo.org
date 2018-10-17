@@ -1,6 +1,6 @@
 # PascalPDX.org
 
-[![CircleCI](https://circleci.com/gh/pascalpdx/pascalpdx.org/tree/master.svg?style=svg)](https://circleci.com/gh/pascalpdx/pascalpdx.org/tree/master)
+CircleCI: [![CircleCI](https://circleci.com/gh/pascalpdx/pascalpdx.org/tree/master.svg?style=shield)](https://circleci.com/gh/pascalpdx/pascalpdx.org/tree/master)
 
 The website source code for <http://www.pascalpdx.org>.
 
