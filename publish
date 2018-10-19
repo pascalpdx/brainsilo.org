@@ -24,7 +24,7 @@ else
   echo -e "\033[0;32mCommitting changes...\033[0m"
 
   # Push build repos.
-  git push git@github.com:pascalpdx/pascalpdx.github.io.git `git subtree split --prefix public master`:master --force
+  cd public && git commit -a -m "rebuilding site" && git push
   if [ $? != 0 ]; then
     echo -e "\033[0;31mChanges could not be published!\033[0m"
     exit 1
