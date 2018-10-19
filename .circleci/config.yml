@@ -18,6 +18,8 @@ jobs:
           name: Publish Site
           command: |
                   if [ "${CIRCLE_BRANCH}" = "master" ]; then
+                    git config user.email "circleci@pascalpdx.com"
+                    git config user.name "CircleCI"
                     sed -i '/public/d' ./.gitignore
                     git add .
                     git commit -m "Edit .gitignore to publish"
