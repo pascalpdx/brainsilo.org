@@ -18,7 +18,7 @@ jobs:
           name: Publish Site
           command: |
                   if [ "${CIRCLE_BRANCH}" = "master" ]; then
-                    git remote add public https://github.com/lokkju/brainsilo.github.io.git
+                    git remote add public git@github.com:pascalpdx/pascalpdx.github.io.git
                     HUGO_ENV=production hugo -v -s ./
                     git push public `git subtree split --prefix public master`:master --force
                   else
