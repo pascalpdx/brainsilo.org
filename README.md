@@ -32,11 +32,6 @@ In order to deploy to this repository, you'll need to submit a pull request.
 
 We have a circleci build process ... which commits the code and pushes the updates to the github pages repos
 
-If you need to run the deploy manually, first commit and push your changes, and then run:
-
-    ./publish
-
-
 ## License
 
 Content released under the [Creative Commons Share-Alike 2.5 License](http://creativecommons.org/licenses/by-sa/2.5/).
