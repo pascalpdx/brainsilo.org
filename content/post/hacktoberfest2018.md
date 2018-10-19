@@ -28,6 +28,6 @@ PASCAL’s site repository lives here: https://github.com/pascalpdx/ It is open.
 Feel free to participate in Hacktoberfest at PASCAL by submitting a pull request (PR) to our site housed on Github.
 
 We will have a project for Hacktoberfest in the project’s tab: https://www.pascalpdx.org/project/ 
-Submit whatever you’d like and let it be immortalized on [our site here](https://www.pascalpdx.org/static/hacktoberfest2018.md) for years!
+Submit whatever you’d like and let it be immortalized on [our site here](https://www.pascalpdx.org/static/hacktoberfest2018) for years!
 
 See also: We will be covering Hacktoberfest on October 20th, 2018 in conjunction with our regularly scheduled [Hack2Learn Meetup](https://www.meetup.com/pascalhackerspace/events/xhvqfqyxnbkc/). Please RSVP on the Meetup page.
