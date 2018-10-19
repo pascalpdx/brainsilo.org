@@ -18,9 +18,11 @@ jobs:
           name: Publish Site
           command: |
                   if [ "${CIRCLE_BRANCH}" = "master" ]; then
-                    ./publish
+                    git remote add public https://github.com/lokkju/brainsilo.github.io.git
+                    HUGO_ENV=production hugo -v -s ./
+                    git push public `git subtree split --prefix public master`:master --force
                   else
-                    echo "Not master branch, dry run only"
+                    echo "Not master branch, dry run only, not pushing changes to site"
                   fi
           environment: 
             GIT_SSH_COMMAND: ssh -o IdentitiesOnly=yes -i ~/.ssh/id_rsa_pages
