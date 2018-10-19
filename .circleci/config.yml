@@ -18,7 +18,7 @@ jobs:
           name: Publish Site
           command: |
                   if [ "${CIRCLE_BRANCH}" = "master" ]; then
-                    sed -i "" '/public/d' ./.gitignore
+                    sed -i '/public/d' ./.gitignore
                     git add .
                     git commit -m "Edit .gitignore to publish"
                     git remote add public git@github.com:pascalpdx/pascalpdx.github.io.git
