@@ -23,9 +23,11 @@ jobs:
                     git commit -m "Edit .gitignore to publish"
                     git remote add public git@github.com:pascalpdx/pascalpdx.github.io.git
                     HUGO_ENV=production hugo -v -s ./
+                    git add --all .
+                    git commit -m "rebuilding site `date`"
                     git push public `git subtree split --prefix public master`:master --force
-                    git reset HEAD~
-                    git checkout .gitignore
+                    #git reset HEAD~
+                    #git checkout .gitignore
                   else
                     echo "Not master branch, dry run only, not pushing changes to site"
                   fi
