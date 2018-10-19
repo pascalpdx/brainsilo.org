@@ -1,6 +1,7 @@
         <footer>
 
             <p class="copyright">{{ .Site.Params.copyright | default "&copy; All rights reserved. Powered by [Hugo](https://gohugo.io) and [Minimal](https://github.com/calintat/minimal)" | markdownify }}</p>
+	    <p class="build_date">Last updated: {{ dateFormat "2006-01-02 03:04:05 MST" now | markdownify }}</p>
 
         </footer>
 
