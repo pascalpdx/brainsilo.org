@@ -6,6 +6,8 @@ tags: [ "event" ]
 author: "lacey"
 ---
 
+<center>![](/static/images/bsides/bsidespdx.png)</center>
+
 ## Friday Evening Party at PASCAL - 7 PM - END
 
 <a href="https://www.pascalpdx.org" target="_blank">PASCAL</a> is hosting the Friday night after-party for BSidesPDX on October 26th! Doors open at 7 pm. Located at the new location within Audiocinema: 226 SE Madison St.
